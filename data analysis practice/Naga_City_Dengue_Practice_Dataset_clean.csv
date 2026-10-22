@@ -1,0 +1,1245 @@
+﻿Case_ID,Report_Date,Symptom_Onset_Date,Barangay,Age,Age_Brackets,Sex,Case_Classification,Hospitalized,Outcome,Rainfall_mm,Population_2024
+NGD00001,2025-01-04,2024-12-29,Abella,9,Minor,Male,Confirmed,No,Recovered,92.5,5401
+NGD00002,2025-01-18,2025-01-16,Abella,55,Adult,Male,Confirmed,Yes,Recovered,117.2,5401
+NGD00003,2025-01-29,2025-01-23,Bagumbayan Norte,16,Minor,Female,Suspected,Yes,Recovered,49.4,2024
+NGD00004,2025-01-10,2025-01-08,Bagumbayan Norte,1,Minor,Female,Suspected,No,Recovered,127.3,2024
+NGD00005,2025-01-27,2025-01-21,Bagumbayan Sur,11,Minor,Male,Confirmed,Yes,Recovered,0,7366
+NGD00006,2025-01-30,2025-01-28,Balatas,9,Minor,Female,Confirmed,Yes,Recovered,95.7,11265
+NGD00007,2025-01-09,2025-01-05,Balatas,14,Minor,Male,Suspected,No,Recovered,127.1,11265
+NGD00008,2025-01-02,2024-12-27,Balatas,14,Minor,Male,Confirmed,Yes,Recovered,176.9,11265
+NGD00009,2025-01-29,2025-01-23,Balatas,15,Minor,Female,Confirmed,No,Recovered,74.7,11265
+NGD00010,2025-01-15,2025-01-12,Calauag,7,Minor,Male,Confirmed,No,Recovered,85.8,10738
+NGD00011,2025-01-24,2025-01-17,Calauag,26,Young_Adult,Male,Confirmed,No,Recovered,123.5,10738
+NGD00012,2025-01-16,2025-01-14,Calauag,20,Young_Adult,Female,Suspected,Yes,Recovered,58.4,10738
+NGD00013,2025-01-22,2025-01-15,Cararayan,32,Young_Adult,Female,Confirmed,No,Recovered,123.8,22596
+NGD00014,2025-01-09,2025-01-08,Cararayan,12,Minor,Female,Suspected,No,Recovered,58,22596
+NGD00015,2025-01-21,2025-01-15,Cararayan,6,Minor,Female,Confirmed,Yes,Recovered,135.5,22596
+NGD00016,2025-01-24,2025-01-19,Cararayan,9,Minor,Female,Confirmed,Yes,Recovered,9.2,22596
+NGD00017,2025-01-27,2025-01-23,Cararayan,37,Adult,Female,Confirmed,Yes,Recovered,91.3,22596
+NGD00018,2025-01-30,2025-01-29,Cararayan,28,Young_Adult,Male,Confirmed,Yes,Recovered,39.5,22596
+NGD00019,2025-01-27,2025-01-22,Cararayan,53,Adult,Female,Confirmed,No,Recovered,93.6,22596
+NGD00020,2025-01-03,2024-12-26,Carolina,7,Minor,Female,Probable,No,Recovered,132.3,7539
+NGD00021,2025-01-22,2025-01-14,Carolina,19,Young_Adult,Female,Confirmed,No,Recovered,94.6,7539
+NGD00022,2025-01-07,2025-01-03,Concepcion Grande,12,Minor,Male,Confirmed,No,Recovered,47.4,10804
+NGD00023,2025-01-29,2025-01-21,Concepcion Grande,31,Young_Adult,Female,Confirmed,Yes,Recovered,138.7,10804
+NGD00024,2025-01-18,2025-01-14,Concepcion Pequeña,24,Young_Adult,Female,Confirmed,No,Recovered,128.3,26192
+NGD00025,2025-01-03,2025-01-02,Concepcion Pequeña,18,Young_Adult,Male,Confirmed,Yes,Recovered,112,26192
+NGD00026,2025-01-07,2025-01-04,Concepcion Pequeña,17,Minor,Male,Confirmed,No,Recovered,0,26192
+NGD00027,2025-01-04,2025-01-02,Concepcion Pequeña,1,Minor,Male,Confirmed,No,Recovered,94,26192
+NGD00028,2025-01-02,2024-12-31,Concepcion Pequeña,17,Minor,Female,Confirmed,Yes,Recovered,30.9,26192
+NGD00029,2025-01-08,2025-01-04,Concepcion Pequeña,26,Young_Adult,Female,Confirmed,Yes,Recovered,0,26192
+NGD00030,2025-01-15,2025-01-11,Concepcion Pequeña,26,Young_Adult,Female,Confirmed,No,Recovered,70.9,26192
+NGD00031,2025-01-02,2025-01-01,Concepcion Pequeña,22,Young_Adult,Female,Probable,No,Recovered,0,26192
+NGD00032,2025-01-16,2025-01-08,Concepcion Pequeña,23,Young_Adult,Female,Suspected,No,Recovered,210.5,26192
+NGD00033,2025-01-01,2024-12-25,Concepcion Pequeña,30,Young_Adult,Male,Probable,No,Recovered,60.8,26192
+NGD00034,2025-01-23,2025-01-15,Concepcion Pequeña,22,Young_Adult,Female,Confirmed,Yes,Recovered,10.7,26192
+NGD00035,2025-01-24,2025-01-23,Concepcion Pequeña,36,Adult,Male,Confirmed,No,Recovered,11.8,26192
+NGD00036,2025-01-28,2025-01-25,Concepcion Pequeña,36,Adult,Female,Probable,Yes,Recovered,Unclassified,26192
+NGD00037,2025-01-20,2025-01-18,Dayangdang,11,Minor,Female,Confirmed,No,Recovered,79.2,3538
+NGD00038,2025-01-19,2025-01-18,Del Rosario,59,Adult,Female,Confirmed,No,Recovered,123,10253
+NGD00039,2025-01-30,2025-01-25,Del Rosario,6,Minor,Female,Confirmed,Yes,Recovered,78.8,10253
+NGD00040,2025-01-05,2024-12-31,Igualdad Interior,12,Minor,Male,Confirmed,No,Recovered,57.3,2814
+NGD00041,2025-01-15,2025-01-13,Lerma,42,Adult,Female,Confirmed,No,Recovered,104,1430
+NGD00042,2025-01-12,2025-01-10,Liboton,26,Young_Adult,Female,Confirmed,Yes,Recovered,118,2906
+NGD00043,2025-01-23,2025-01-18,Mabolo,27,Young_Adult,Female,Confirmed,No,Recovered,35.7,8408
+NGD00044,2025-01-04,2025-01-01,Mabolo,25,Young_Adult,Male,Confirmed,Yes,Recovered,8.1,8408
+NGD00045,2025-01-09,2025-01-04,Mabolo,9,Minor,Female,Suspected,Yes,Recovered,111.1,8408
+NGD00046,2025-01-09,2025-01-01,Mabolo,13,Minor,Male,Probable,No,Recovered,12.8,8408
+NGD00047,2025-01-14,2025-01-09,Mabolo,40,Adult,Female,Confirmed,No,Recovered,97.7,8408
+NGD00048,2025-01-09,2025-01-06,Mabolo,11,Minor,Male,Confirmed,No,Recovered,83,8408
+NGD00049,2025-01-03,2024-12-31,Pacol,18,Young_Adult,Female,Suspected,No,Recovered,224.6,15881
+NGD00050,2025-01-05,2025-01-04,Pacol,11,Minor,Male,Confirmed,No,Ongoing,128.7,15881
+NGD00051,2025-01-02,2024-12-27,Pacol,10,Minor,Female,Suspected,No,Recovered,101.5,15881
+NGD00052,2025-01-18,2025-01-11,Pacol,20,Young_Adult,Female,Probable,Yes,Recovered,115.7,15881
+NGD00053,2025-01-26,2025-01-23,Pacol,12,Minor,Male,Confirmed,No,Recovered,0,15881
+NGD00054,2025-01-30,2025-01-23,Pacol,11,Minor,Female,Unclassified,No,Recovered,46.8,15881
+NGD00055,2025-01-28,2025-01-27,Pacol,25,Young_Adult,Male,Confirmed,No,Recovered,96.2,15881
+NGD00056,2025-01-10,2025-01-06,Peñafrancia,42,Adult,Female,Confirmed,Yes,Recovered,77.8,4219
+NGD00057,2025-01-28,2025-01-26,Peñafrancia,43,Adult,Male,Confirmed,No,Recovered,133,4219
+NGD00058,2025-01-27,2025-01-21,San Felipe,78,Senior,Female,Confirmed,No,Recovered,0,22432
+NGD00059,2025-01-31,2025-01-26,San Felipe,16,Minor,Female,Confirmed,No,Recovered,79.4,22432
+NGD00060,2025-01-11,2025-01-04,San Felipe,16,Minor,Female,Confirmed,No,Recovered,134.9,22432
+NGD00061,2025-01-23,2025-01-16,San Felipe,55,Adult,Female,Confirmed,No,Recovered,82.1,22432
+NGD00062,2025-01-31,2025-01-27,San Felipe,13,Minor,Male,Confirmed,No,Recovered,86.9,22432
+NGD00063,2025-01-20,2025-01-14,San Felipe,81,Senior,Female,Suspected,Yes,Recovered,176.4,22432
+NGD00064,2025-01-14,2025-01-08,San Felipe,3,Minor,Male,Suspected,No,Recovered,85.3,22432
+NGD00065,2025-01-22,2025-01-15,San Felipe,16,Minor,Female,Confirmed,Yes,Recovered,0,22432
+NGD00066,2025-01-01,2024-12-27,San Felipe,31,Young_Adult,Male,Confirmed,No,Recovered,122.6,22432
+NGD00067,2025-01-11,2025-01-03,San Felipe,17,Minor,Male,Confirmed,Yes,Recovered,57.5,22432
+NGD00068,2025-01-29,2025-01-26,San Felipe,60,Senior,Female,Confirmed,No,Recovered,97.3,22432
+NGD00069,2025-01-03,2024-12-30,San Felipe,28,Young_Adult,Male,Confirmed,Yes,Recovered,165.8,22432
+NGD00070,2025-01-08,2024-12-31,San Felipe,6,Minor,Female,Confirmed,No,Recovered,48.4,22432
+NGD00071,2025-01-23,2025-01-16,San Felipe,19,Young_Adult,Male,Confirmed,Yes,Recovered,178,22432
+NGD00072,2025-01-29,2025-01-27,San Felipe,0,Minor,Male,Confirmed,No,Recovered,18.7,22432
+NGD00073,2025-01-15,2025-01-14,Santa Cruz,52,Adult,Female,Probable,Yes,Recovered,0,6397
+NGD00074,2025-01-15,2025-01-09,Santa Cruz,29,Young_Adult,Male,Confirmed,No,Recovered,125,6397
+NGD00075,2025-01-27,2025-01-19,Tinago,33,Young_Adult,Female,Suspected,No,Recovered,81.9,2386
+NGD00076,2025-01-08,2025-01-03,Triangulo,34,Young_Adult,Male,Confirmed,Yes,Recovered,78.9,7933
+NGD00077,2025-01-10,2025-01-06,Triangulo,27,Young_Adult,Male,Confirmed,No,Recovered,40.8,7933
+NGD00078,2025-02-05,2025-02-01,Abella,14,Minor,Male,Suspected,No,Recovered,55.4,5401
+NGD00079,2025-02-14,2025-02-08,Bagumbayan Sur,35,Young_Adult,Male,Confirmed,Yes,Recovered,108.6,7366
+NGD00080,2025-02-25,2025-02-24,Bagumbayan Sur,4,Minor,Male,Confirmed,No,Recovered,7.9,7366
+NGD00081,2025-02-13,2025-02-06,Bagumbayan Sur,31,Young_Adult,Female,Confirmed,Yes,Recovered,63.9,7366
+NGD00082,2025-02-13,2025-02-07,Bagumbayan Sur,55,Adult,Male,Suspected,No,Recovered,50.8,7366
+NGD00083,2025-02-20,2025-02-19,Balatas,34,Young_Adult,Male,Confirmed,No,Recovered,57.9,11265
+NGD00084,2025-02-14,2025-02-11,Balatas,18,Young_Adult,Male,Confirmed,Yes,Recovered,41.3,11265
+NGD00085,2025-02-15,2025-02-09,Balatas,24,Young_Adult,Male,Suspected,Yes,Recovered,107.7,11265
+NGD00086,2025-02-27,2025-02-20,Calauag,44,Adult,Male,Suspected,No,Recovered,118.5,10738
+NGD00087,2025-02-02,2025-01-27,Calauag,13,Minor,Male,Confirmed,No,Recovered,74.5,10738
+NGD00088,2025-02-25,2025-02-24,Cararayan,26,Young_Adult,Female,Confirmed,Yes,Recovered,47.1,22596
+NGD00089,2025-02-05,2025-01-28,Cararayan,32,Young_Adult,Female,Confirmed,Unclassified,Recovered,123,22596
+NGD00090,2025-02-25,2025-02-19,Cararayan,7,Minor,Female,Confirmed,No,Recovered,0,22596
+NGD00091,2025-02-25,2025-02-22,Cararayan,14,Minor,Male,Confirmed,Yes,Recovered,149.8,22596
+NGD00092,2025-02-22,2025-02-15,Cararayan,27,Young_Adult,Male,Probable,Yes,Recovered,156.1,22596
+NGD00093,2025-02-27,2025-02-23,Cararayan,18,Young_Adult,Female,Suspected,Yes,Recovered,74.7,22596
+NGD00094,2025-02-26,2025-02-24,Cararayan,27,Young_Adult,Female,Confirmed,No,Recovered,29.5,22596
+NGD00095,2025-02-17,2025-02-11,Carolina,17,Minor,Female,Suspected,No,Recovered,100.2,7539
+NGD00096,2025-02-12,2025-02-04,Carolina,26,Young_Adult,Female,Confirmed,No,Ongoing,75.7,7539
+NGD00097,2025-02-09,2025-02-01,Carolina,30,Young_Adult,Male,Confirmed,No,Recovered,78,7539
+NGD00098,2025-02-28,2025-02-24,Concepcion Grande,38,Adult,Female,Confirmed,No,Recovered,85.1,10804
+NGD00099,2025-02-19,2025-02-12,Concepcion Grande,21,Young_Adult,Male,Confirmed,No,Recovered,128.7,10804
+NGD00100,2025-02-07,2025-02-01,Concepcion Grande,12,Minor,Male,Confirmed,No,Recovered,42,10804
+NGD00101,2025-02-09,2025-02-08,Concepcion Pequeña,34,Young_Adult,Female,Confirmed,No,Recovered,67.7,26192
+NGD00102,2025-02-25,2025-02-21,Concepcion Pequeña,45,Adult,Male,Confirmed,No,Recovered,49.2,26192
+NGD00103,2025-02-03,2025-01-29,Concepcion Pequeña,27,Young_Adult,Female,Confirmed,Yes,Recovered,14.6,26192
+NGD00104,2025-02-12,2025-02-04,Concepcion Pequeña,20,Young_Adult,Male,Confirmed,No,Recovered,143.1,26192
+NGD00105,2025-02-23,2025-02-15,Concepcion Pequeña,21,Young_Adult,Male,Confirmed,Yes,Recovered,71.9,26192
+NGD00106,2025-02-11,2025-02-09,Concepcion Pequeña,22,Young_Adult,Female,Confirmed,No,Recovered,77.6,26192
+NGD00107,2025-02-19,2025-02-14,Concepcion Pequeña,18,Young_Adult,Female,Suspected,Yes,Recovered,0,26192
+NGD00108,2025-02-10,2025-02-09,Concepcion Pequeña,24,Young_Adult,Female,Confirmed,No,Recovered,103.3,26192
+NGD00109,2025-02-23,2025-02-20,Concepcion Pequeña,42,Adult,Male,Confirmed,Yes,Recovered,159.8,26192
+NGD00110,2025-02-16,2025-02-08,Concepcion Pequeña,28,Young_Adult,Male,Confirmed,Yes,Recovered,33.8,26192
+NGD00111,2025-02-16,2025-02-14,Concepcion Pequeña,24,Young_Adult,Female,Confirmed,Yes,Recovered,160.3,26192
+NGD00112,2025-02-02,2025-01-30,Concepcion Pequeña,70,Senior,Female,Suspected,No,Recovered,171.5,26192
+NGD00113,2025-02-08,2025-02-06,Concepcion Pequeña,10,Minor,Male,Confirmed,No,Recovered,60.2,26192
+NGD00114,2025-02-17,2025-02-10,Concepcion Pequeña,33,Young_Adult,Male,Probable,Yes,Recovered,150.3,26192
+NGD00115,2025-02-14,2025-02-09,Concepcion Pequeña,16,Minor,Female,Confirmed,No,Recovered,56.2,26192
+NGD00116,2025-02-07,2025-02-03,Del Rosario,53,Adult,Male,Confirmed,Yes,Recovered,79.1,10253
+NGD00117,2025-02-03,2025-01-31,Del Rosario,40,Adult,Female,Confirmed,No,Recovered,93.2,10253
+NGD00118,2025-02-02,2025-01-29,Del Rosario,5,Minor,Male,Suspected,No,Recovered,71.9,10253
+NGD00119,2025-02-22,2025-02-18,Del Rosario,22,Young_Adult,Male,Suspected,No,Recovered,97.2,10253
+NGD00120,2025-02-07,2025-01-31,Mabolo,28,Young_Adult,Female,Confirmed,No,Recovered,23.3,8408
+NGD00121,2025-02-27,2025-02-24,Pacol,12,Minor,Female,Confirmed,No,Recovered,44.3,15881
+NGD00122,2025-02-27,2025-02-22,Pacol,21,Young_Adult,Male,Confirmed,No,Recovered,18.1,15881
+NGD00123,2025-02-09,2025-02-01,Pacol,23,Young_Adult,Male,Confirmed,Yes,Recovered,0,15881
+NGD00124,2025-02-11,2025-02-06,Pacol,13,Minor,Female,Confirmed,No,Recovered,86.8,15881
+NGD00125,2025-02-19,2025-02-18,Pacol,38,Adult,Male,Confirmed,No,Recovered,40.9,15881
+NGD00126,2025-02-17,2025-02-09,Sabang,6,Minor,Male,Confirmed,No,Recovered,150.2,6274
+NGD00127,2025-02-16,2025-02-14,San Felipe,54,Adult,Male,Confirmed,Yes,Recovered,0,22432
+NGD00128,2025-02-28,2025-02-25,San Felipe,13,Minor,Male,Confirmed,No,Recovered,0,22432
+NGD00129,2025-02-13,2025-02-12,San Felipe,10,Minor,Male,Confirmed,Yes,Recovered,39,22432
+NGD00130,2025-02-25,2025-02-18,San Felipe,58,Adult,Female,Confirmed,No,Recovered,123.5,22432
+NGD00131,2025-02-07,2025-02-01,San Felipe,11,Minor,Male,Confirmed,No,Recovered,74.8,22432
+NGD00132,2025-02-18,2025-02-15,San Felipe,54,Adult,Male,Confirmed,No,Recovered,104.6,22432
+NGD00133,2025-02-21,2025-02-17,San Felipe,17,Minor,Female,Confirmed,Yes,Recovered,38.2,22432
+NGD00134,2025-02-08,2025-02-06,San Isidro,23,Young_Adult,Male,Probable,No,Recovered,82,3789
+NGD00135,2025-03-30,2025-03-25,Bagumbayan Sur,34,Young_Adult,Male,Confirmed,No,Recovered,96.5,7366
+NGD00136,2025-03-15,2025-03-12,Bagumbayan Sur,21,Young_Adult,Male,Confirmed,No,Recovered,43.3,7366
+NGD00137,2025-03-05,2025-03-03,Balatas,36,Adult,Male,Suspected,No,Recovered,43.9,11265
+NGD00138,2025-03-26,2025-03-21,Balatas,10,Minor,Female,Confirmed,Yes,Recovered,0,11265
+NGD00139,2025-03-22,2025-03-14,Balatas,23,Young_Adult,Female,Confirmed,No,Recovered,0,11265
+NGD00140,2025-03-25,2025-03-18,Balatas,36,Adult,Male,Unclassified,No,Ongoing,71.4,11265
+NGD00141,2025-03-08,2025-03-01,Balatas,8,Minor,Female,Suspected,No,Recovered,66.8,11265
+NGD00142,2025-03-16,2025-03-09,Calauag,17,Minor,Male,Probable,No,Recovered,130.3,10738
+NGD00143,2025-03-05,2025-02-25,Cararayan,15,Minor,Female,Confirmed,No,Recovered,101.8,22596
+NGD00144,2025-03-04,2025-02-24,Cararayan,55,Adult,Female,Confirmed,No,Recovered,93.6,22596
+NGD00145,2025-03-14,2025-03-11,Cararayan,17,Minor,Female,Confirmed,No,Recovered,57.5,22596
+NGD00146,2025-03-23,2025-03-16,Cararayan,18,Young_Adult,Female,Suspected,No,Recovered,90.9,22596
+NGD00147,2025-03-13,2025-03-07,Cararayan,70,Senior,Male,Suspected,Yes,Recovered,60.1,22596
+NGD00148,2025-03-21,2025-03-16,Cararayan,40,Adult,Female,Suspected,No,Recovered,0,22596
+NGD00149,2025-03-21,2025-03-19,Cararayan,10,Minor,Male,Confirmed,Yes,Recovered,132.8,22596
+NGD00150,2025-03-11,2025-03-10,Cararayan,12,Minor,Male,Confirmed,No,Recovered,93,22596
+NGD00151,2025-03-14,2025-03-11,Cararayan,19,Young_Adult,Female,Confirmed,No,Recovered,124.1,22596
+NGD00152,2025-03-22,2025-03-18,Cararayan,24,Young_Adult,Male,Probable,Yes,Recovered,0,22596
+NGD00153,2025-03-09,2025-03-01,Cararayan,44,Adult,Male,Confirmed,No,Recovered,103,22596
+NGD00154,2025-03-10,2025-03-07,Cararayan,47,Adult,Female,Confirmed,Yes,Recovered,85,22596
+NGD00155,2025-03-21,2025-03-14,Cararayan,26,Young_Adult,Male,Confirmed,Yes,Fatal,15,22596
+NGD00156,2025-03-28,2025-03-20,Carolina,12,Minor,Female,Confirmed,No,Recovered,101.3,7539
+NGD00157,2025-03-23,2025-03-18,Concepcion Grande,28,Young_Adult,Female,Probable,No,Recovered,60.2,10804
+NGD00158,2025-03-19,2025-03-18,Concepcion Grande,10,Minor,Male,Suspected,No,Recovered,51.5,10804
+NGD00159,2025-03-08,2025-03-02,Concepcion Pequeña,15,Minor,Female,Confirmed,No,Recovered,97.7,26192
+NGD00160,2025-03-24,2025-03-21,Concepcion Pequeña,64,Senior,Female,Probable,No,Recovered,16.8,26192
+NGD00161,2025-03-15,2025-03-14,Concepcion Pequeña,15,Minor,Male,Suspected,Yes,Recovered,0,26192
+NGD00162,2025-03-24,2025-03-17,Concepcion Pequeña,53,Adult,Female,Confirmed,No,Recovered,84.9,26192
+NGD00163,2025-03-12,2025-03-07,Concepcion Pequeña,89,Senior,Female,Confirmed,No,Recovered,81,26192
+NGD00164,2025-03-26,2025-03-21,Concepcion Pequeña,35,Young_Adult,Male,Suspected,No,Recovered,86.9,26192
+NGD00165,2025-03-25,2025-03-21,Concepcion Pequeña,29,Young_Adult,Male,Probable,No,Recovered,178.5,26192
+NGD00166,2025-03-26,2025-03-19,Concepcion Pequeña,49,Adult,Female,Confirmed,Yes,Recovered,85.1,26192
+NGD00167,2025-03-24,2025-03-19,Concepcion Pequeña,24,Young_Adult,Male,Suspected,No,Recovered,20.6,26192
+NGD00168,2025-03-08,2025-02-28,Concepcion Pequeña,20,Young_Adult,Female,Confirmed,No,Recovered,214.6,26192
+NGD00169,2025-03-20,2025-03-16,Concepcion Pequeña,31,Young_Adult,Female,Confirmed,No,Recovered,66.3,26192
+NGD00170,2025-03-21,2025-03-14,Concepcion Pequeña,16,Minor,Female,Confirmed,No,Recovered,121.9,26192
+NGD00171,2025-03-16,2025-03-14,Concepcion Pequeña,8,Minor,Female,Confirmed,No,Recovered,3.8,26192
+NGD00172,2025-03-12,2025-03-05,Del Rosario,22,Young_Adult,Female,Suspected,No,Recovered,2.4,10253
+NGD00173,2025-03-20,2025-03-13,Del Rosario,19,Young_Adult,Male,Confirmed,Yes,Recovered,113.3,10253
+NGD00174,2025-03-31,2025-03-27,Mabolo,87,Senior,Male,Confirmed,No,Recovered,78.3,8408
+NGD00175,2025-03-21,2025-03-15,Mabolo,12,Minor,Female,Confirmed,Yes,Recovered,112.1,8408
+NGD00176,2025-03-28,2025-03-20,Pacol,87,Senior,Female,Confirmed,No,Recovered,14.1,15881
+NGD00177,2025-03-01,2025-02-28,Pacol,19,Young_Adult,Male,Confirmed,Yes,Recovered,157.7,15881
+NGD00178,2025-03-03,2025-02-27,Panicuason,9,Minor,Female,Suspected,Yes,Recovered,86.2,3224
+NGD00179,2025-03-26,2025-03-25,Peñafrancia,37,Adult,Male,Suspected,Yes,Recovered,2,4219
+NGD00180,2025-03-09,2025-03-06,Peñafrancia,39,Adult,Female,Confirmed,Yes,Recovered,144.9,4219
+NGD00181,2025-03-26,2025-03-22,San Felipe,15,Minor,Male,Confirmed,Yes,Recovered,101.9,22432
+NGD00182,2025-03-14,2025-03-12,San Felipe,17,Minor,Female,Confirmed,No,Recovered,62.4,22432
+NGD00183,2025-03-04,2025-02-24,San Felipe,35,Young_Adult,Female,Probable,Yes,Recovered,99.4,22432
+NGD00184,2025-03-28,2025-03-23,San Felipe,57,Adult,Male,Confirmed,Yes,Fatal,19.6,22432
+NGD00185,2025-03-28,2025-03-21,San Felipe,32,Young_Adult,Male,Suspected,No,Recovered,58,22432
+NGD00186,2025-03-03,2025-03-01,San Felipe,5,Minor,Male,Confirmed,Yes,Recovered,172.1,22432
+NGD00187,2025-03-21,2025-03-15,San Felipe,15,Minor,Male,Probable,No,Recovered,132.7,22432
+NGD00188,2025-03-20,2025-03-13,San Isidro,8,Minor,Female,Suspected,Yes,Recovered,171.5,3789
+NGD00189,2025-03-29,2025-03-25,Santa Cruz,40,Adult,Male,Confirmed,Yes,Recovered,73.3,6397
+NGD00190,2025-03-15,2025-03-08,Tabuco,27,Young_Adult,Male,Suspected,Yes,Recovered,0,3825
+NGD00191,2025-04-09,2025-04-03,Abella,5,Minor,Female,Suspected,No,Recovered,105.4,5401
+NGD00192,2025-04-03,2025-04-01,Abella,41,Adult,Male,Confirmed,No,Recovered,101,5401
+NGD00193,2025-04-18,2025-04-17,Abella,56,Adult,Male,Confirmed,No,Recovered,161.4,5401
+NGD00194,2025-04-25,2025-04-18,Bagumbayan Sur,17,Minor,Female,Probable,No,Recovered,85.9,7366
+NGD00195,2025-04-19,2025-04-15,Bagumbayan Sur,14,Minor,Female,Confirmed,Yes,Recovered,0,7366
+NGD00196,2025-04-28,2025-04-22,Bagumbayan Sur,49,Adult,Female,Suspected,No,Recovered,26.4,7366
+NGD00197,2025-04-28,2025-04-27,Balatas,33,Young_Adult,Male,Confirmed,Yes,Recovered,0,11265
+NGD00198,2025-04-30,2025-04-24,Balatas,87,Senior,Male,Confirmed,No,Recovered,69.7,11265
+NGD00199,2025-04-13,2025-04-11,Balatas,17,Minor,Female,Suspected,No,Recovered,88.3,11265
+NGD00200,2025-04-17,2025-04-13,Balatas,22,Young_Adult,Male,Confirmed,Yes,Recovered,172.4,11265
+NGD00201,2025-04-24,2025-04-18,Balatas,6,Minor,Female,Suspected,Yes,Recovered,53,11265
+NGD00202,2025-04-02,2025-03-31,Balatas,33,Young_Adult,Male,Confirmed,No,Recovered,128.5,11265
+NGD00203,2025-04-14,2025-04-09,Calauag,21,Young_Adult,Female,Suspected,Yes,Recovered,109.1,10738
+NGD00204,2025-04-10,2025-04-02,Calauag,42,Adult,Male,Confirmed,No,Recovered,81.6,10738
+NGD00205,2025-04-01,2025-03-28,Cararayan,37,Adult,Male,Probable,No,Recovered,82.4,22596
+NGD00206,2025-04-10,2025-04-04,Cararayan,9,Minor,Female,Confirmed,No,Recovered,132.9,22596
+NGD00207,2025-04-13,2025-04-09,Cararayan,44,Adult,Male,Confirmed,No,Recovered,70.6,22596
+NGD00208,2025-04-01,2025-03-24,Cararayan,39,Adult,Female,Suspected,No,Recovered,46.6,22596
+NGD00209,2025-04-23,2025-04-16,Cararayan,7,Minor,Male,Confirmed,Yes,Recovered,102.6,22596
+NGD00210,2025-04-26,2025-04-18,Cararayan,26,Young_Adult,Male,Confirmed,No,Recovered,48.7,22596
+NGD00211,2025-04-19,2025-04-12,Cararayan,18,Young_Adult,Female,Confirmed,Yes,Recovered,82.4,22596
+NGD00212,2025-04-11,2025-04-08,Cararayan,52,Adult,Female,Confirmed,Yes,Recovered,85.8,22596
+NGD00213,2025-04-29,2025-04-23,Cararayan,38,Adult,Male,Suspected,No,Recovered,90.6,22596
+NGD00214,2025-04-08,2025-04-06,Cararayan,23,Young_Adult,Female,Confirmed,Yes,Recovered,133.6,22596
+NGD00215,2025-04-25,2025-04-23,Cararayan,46,Adult,Female,Probable,No,Recovered,37.4,22596
+NGD00216,2025-04-19,2025-04-11,Cararayan,77,Senior,Male,Suspected,No,Recovered,55,22596
+NGD00217,2025-04-03,2025-03-26,Carolina,18,Young_Adult,Male,Confirmed,No,Recovered,30.7,7539
+NGD00218,2025-04-12,2025-04-10,Carolina,10,Minor,Male,Confirmed,Yes,Recovered,32.8,7539
+NGD00219,2025-04-10,2025-04-08,Carolina,4,Minor,Female,Confirmed,No,Recovered,8.6,7539
+NGD00220,2025-04-18,2025-04-17,Carolina,40,Adult,Male,Probable,No,Recovered,63.2,7539
+NGD00221,2025-04-20,2025-04-12,Carolina,78,Senior,Female,Probable,No,Recovered,38.5,7539
+NGD00222,2025-04-27,2025-04-21,Concepcion Grande,14,Minor,Female,Confirmed,Yes,Recovered,45.8,10804
+NGD00223,2025-04-15,2025-04-07,Concepcion Grande,32,Young_Adult,Female,Confirmed,No,Recovered,40.7,10804
+NGD00224,2025-04-25,2025-04-19,Concepcion Grande,51,Adult,Female,Suspected,No,Recovered,43.6,10804
+NGD00225,2025-04-04,2025-03-28,Concepcion Grande,28,Young_Adult,Male,Confirmed,No,Recovered,54.3,10804
+NGD00226,2025-04-20,2025-04-17,Concepcion Grande,25,Young_Adult,Male,Confirmed,No,Recovered,0,10804
+NGD00227,2025-04-10,2025-04-03,Concepcion Pequeña,17,Minor,Female,Confirmed,No,Recovered,107.1,26192
+NGD00228,2025-04-13,2025-04-07,Concepcion Pequeña,27,Young_Adult,Female,Confirmed,No,Recovered,93.4,26192
+NGD00229,2025-04-22,2025-04-20,Concepcion Pequeña,12,Minor,Male,Confirmed,Yes,Recovered,80.8,26192
+NGD00230,2025-04-07,2025-04-01,Concepcion Pequeña,7,Minor,Male,Confirmed,No,Recovered,34.8,26192
+NGD00231,2025-04-10,2025-04-08,Concepcion Pequeña,12,Minor,Female,Confirmed,No,Recovered,74.5,26192
+NGD00232,2025-04-20,2025-04-13,Concepcion Pequeña,15,Minor,Female,Confirmed,No,Recovered,87.3,26192
+NGD00233,2025-04-26,2025-04-23,Concepcion Pequeña,11,Minor,Male,Confirmed,Yes,Recovered,147.8,26192
+NGD00234,2025-04-15,2025-04-10,Concepcion Pequeña,9,Minor,Male,Confirmed,Yes,Ongoing,107.1,26192
+NGD00235,2025-04-26,2025-04-18,Concepcion Pequeña,17,Minor,Female,Confirmed,No,Ongoing,126.3,26192
+NGD00236,2025-04-15,2025-04-10,Concepcion Pequeña,29,Young_Adult,Male,Confirmed,No,Recovered,120.1,26192
+NGD00237,2025-04-07,2025-04-04,Concepcion Pequeña,31,Young_Adult,Male,Confirmed,No,Recovered,130.5,26192
+NGD00238,2025-04-30,2025-04-28,Concepcion Pequeña,54,Adult,Female,Confirmed,No,Recovered,65.8,26192
+NGD00239,2025-04-29,2025-04-26,Concepcion Pequeña,24,Young_Adult,Male,Confirmed,No,Recovered,37.1,26192
+NGD00240,2025-04-29,2025-04-23,Dayangdang,30,Young_Adult,Female,Confirmed,No,Recovered,120,3538
+NGD00241,2025-04-13,2025-04-11,Dayangdang,7,Minor,Male,Confirmed,Yes,Recovered,116,3538
+NGD00242,2025-04-23,2025-04-17,Del Rosario,21,Young_Adult,Female,Confirmed,Yes,Recovered,90.3,10253
+NGD00243,2025-04-23,2025-04-20,Del Rosario,25,Young_Adult,Male,Unclassified,Yes,Recovered,97.5,10253
+NGD00244,2025-04-09,2025-04-05,Del Rosario,42,Adult,Female,Confirmed,No,Recovered,18.5,10253
+NGD00245,2025-04-04,2025-03-30,Del Rosario,4,Minor,Female,Confirmed,Yes,Recovered,128.1,10253
+NGD00246,2025-04-26,2025-04-18,Igualdad Interior,55,Adult,Female,Confirmed,No,Recovered,71.4,2814
+NGD00247,2025-04-01,2025-03-28,Igualdad Interior,17,Minor,Female,Confirmed,Yes,Recovered,7.4,2814
+NGD00248,2025-04-19,2025-04-12,Igualdad Interior,20,Young_Adult,Female,Confirmed,Yes,Ongoing,18.8,2814
+NGD00249,2025-04-03,2025-04-02,Igualdad Interior,35,Young_Adult,Male,Suspected,Yes,Recovered,136.7,2814
+NGD00250,2025-04-12,2025-04-07,Liboton,48,Adult,Female,Confirmed,Yes,Recovered,68.7,2906
+NGD00251,2025-04-22,2025-04-20,Mabolo,33,Young_Adult,Male,Confirmed,Yes,Recovered,35.9,8408
+NGD00252,2025-04-21,2025-04-18,Mabolo,14,Minor,Female,Probable,No,Recovered,6.2,8408
+NGD00253,2025-04-05,2025-04-03,Mabolo,52,Adult,Male,Confirmed,Yes,Recovered,102.8,8408
+NGD00254,2025-04-29,2025-04-28,Mabolo,22,Young_Adult,Male,Probable,No,Ongoing,93.8,8408
+NGD00255,2025-04-18,2025-04-10,Pacol,30,Young_Adult,Male,Confirmed,No,Recovered,143.7,15881
+NGD00256,2025-04-28,2025-04-27,Pacol,30,Young_Adult,Male,Confirmed,No,Recovered,37.8,15881
+NGD00257,2025-04-13,2025-04-05,Pacol,62,Senior,Male,Confirmed,Yes,Recovered,34.3,15881
+NGD00258,2025-04-12,2025-04-07,Pacol,22,Young_Adult,Female,Suspected,Yes,Recovered,121.2,15881
+NGD00259,2025-04-27,2025-04-24,Pacol,14,Minor,Male,Confirmed,Yes,Recovered,59.8,15881
+NGD00260,2025-04-10,2025-04-02,Peñafrancia,22,Young_Adult,Male,Confirmed,No,Recovered,131.3,4219
+NGD00261,2025-04-24,2025-04-18,Sabang,9,Minor,Male,Confirmed,No,Recovered,60.5,6274
+NGD00262,2025-04-03,2025-03-27,Sabang,17,Minor,Male,Confirmed,No,Recovered,74.8,6274
+NGD00263,2025-04-01,2025-03-29,San Felipe,9,Minor,Male,Confirmed,Yes,Recovered,26.8,22432
+NGD00264,2025-04-12,2025-04-06,San Felipe,23,Young_Adult,Male,Probable,Unclassified,Recovered,19.9,22432
+NGD00265,2025-04-15,2025-04-09,San Felipe,18,Young_Adult,Male,Confirmed,Yes,Recovered,129.4,22432
+NGD00266,2025-04-12,2025-04-05,San Felipe,33,Young_Adult,Male,Confirmed,Yes,Recovered,152,22432
+NGD00267,2025-04-24,2025-04-21,San Felipe,39,Adult,Male,Confirmed,No,Recovered,174.7,22432
+NGD00268,2025-04-25,2025-04-20,San Felipe,28,Young_Adult,Male,Confirmed,No,Recovered,124.2,22432
+NGD00269,2025-04-16,2025-04-12,San Felipe,33,Young_Adult,Female,Confirmed,Yes,Recovered,81.3,22432
+NGD00270,2025-04-23,2025-04-15,San Felipe,40,Adult,Female,Suspected,No,Ongoing,189.1,22432
+NGD00271,2025-04-22,2025-04-16,San Felipe,13,Minor,Female,Confirmed,Yes,Recovered,54.7,22432
+NGD00272,2025-04-06,2025-04-03,San Felipe,25,Young_Adult,Male,Confirmed,Yes,Recovered,39.2,22432
+NGD00273,2025-04-05,2025-04-01,San Felipe,16,Minor,Male,Confirmed,No,Recovered,18.3,22432
+NGD00274,2025-04-26,2025-04-23,San Felipe,15,Minor,Female,Confirmed,No,Recovered,73.7,22432
+NGD00275,2025-04-16,2025-04-09,San Felipe,72,Senior,Male,Suspected,Yes,Ongoing,23.7,22432
+NGD00276,2025-04-21,2025-04-19,San Francisco,36,Adult,Male,Confirmed,No,Recovered,47.4,663
+NGD00277,2025-04-27,2025-04-24,San Francisco,26,Young_Adult,Female,Confirmed,No,Recovered,60.8,663
+NGD00278,2025-04-04,2025-04-01,San Isidro,5,Minor,Male,Confirmed,Yes,Recovered,0,3789
+NGD00279,2025-04-12,2025-04-07,San Isidro,68,Senior,Female,Confirmed,No,Recovered,134.3,3789
+NGD00280,2025-04-05,2025-03-31,San Isidro,22,Young_Adult,Female,Confirmed,Yes,Recovered,0,3789
+NGD00281,2025-04-05,2025-04-02,Santa Cruz,15,Minor,Male,Suspected,No,Recovered,150.7,6397
+NGD00282,2025-04-01,2025-03-30,Santa Cruz,36,Adult,female,Probable,No,Recovered,102.2,6397
+NGD00283,2025-04-07,2025-03-31,Triangulo,26,Young_Adult,Female,Confirmed,No,Recovered,104.9,7933
+NGD00284,2025-04-10,2025-04-02,Triangulo,17,Minor,Female,Suspected,No,Recovered,0,7933
+NGD00285,2025-05-03,2025-05-02,Abella,26,Young_Adult,Female,Confirmed,No,Recovered,3.8,5401
+NGD00286,2025-05-20,2025-05-17,Bagumbayan Norte,45,Adult,Male,Suspected,Yes,Ongoing,0,2024
+NGD00287,2025-05-12,2025-05-05,Bagumbayan Sur,18,Young_Adult,Female,Suspected,No,Recovered,129.8,7366
+NGD00288,2025-05-08,2025-04-30,Balatas,16,Minor,Female,Confirmed,Yes,Recovered,121.6,11265
+NGD00289,2025-05-10,2025-05-03,Balatas,46,Adult,Male,Confirmed,No,Recovered,96,11265
+NGD00290,2025-05-11,2025-05-05,Balatas,29,Young_Adult,Female,Suspected,No,Recovered,58.3,11265
+NGD00291,2025-05-16,2025-05-11,Balatas,28,Young_Adult,Male,Confirmed,No,Recovered,71.1,11265
+NGD00292,2025-05-31,2025-05-27,Balatas,22,Young_Adult,Female,Confirmed,Yes,Recovered,67.8,11265
+NGD00293,2025-05-20,2025-05-12,Calauag,10,Minor,Male,Confirmed,No,Recovered,125.4,10738
+NGD00294,2025-05-29,2025-05-24,Calauag,28,Young_Adult,Male,Suspected,Yes,Recovered,0,10738
+NGD00295,2025-05-19,2025-05-15,Calauag,89,Senior,Male,Confirmed,Yes,Recovered,136,10738
+NGD00296,2025-05-25,2025-05-20,Cararayan,10,Minor,Female,Confirmed,Yes,Recovered,90.2,22596
+NGD00297,2025-05-11,2025-05-05,Cararayan,14,Minor,Female,Confirmed,No,Recovered,64.5,22596
+NGD00298,2025-05-02,2025-05-01,Cararayan,26,Young_Adult,Female,Suspected,No,Recovered,73.3,22596
+NGD00299,2025-05-05,2025-05-02,Cararayan,68,Senior,Male,Probable,Yes,Recovered,86.1,22596
+NGD00300,2025-05-20,2025-05-15,Cararayan,42,Adult,Male,Confirmed,No,Recovered,85.9,22596
+NGD00301,2025-05-19,2025-05-14,Cararayan,30,Young_Adult,Male,Suspected,Yes,Recovered,110.1,22596
+NGD00302,2025-05-14,2025-05-09,Cararayan,9,Minor,Female,Confirmed,Yes,Recovered,32.6,22596
+NGD00303,2025-05-25,2025-05-21,Cararayan,27,Young_Adult,Female,Confirmed,Yes,Recovered,71.5,22596
+NGD00304,2025-05-20,2025-05-13,Carolina,27,Young_Adult,Female,Suspected,Yes,Recovered,107.9,7539
+NGD00305,2025-05-23,2025-05-21,Carolina,34,Young_Adult,Female,Confirmed,Yes,Recovered,145.9,7539
+NGD00306,2025-05-23,2025-05-19,Carolina,18,Young_Adult,Male,Confirmed,No,Recovered,65.5,7539
+NGD00307,2025-05-28,2025-05-27,Carolina,22,Young_Adult,Female,Confirmed,No,Fatal,4.7,7539
+NGD00308,2025-05-16,2025-05-09,Carolina,5,Minor,Male,Probable,No,Recovered,20.5,7539
+NGD00309,2025-05-18,2025-05-12,Carolina,3,Minor,Male,Confirmed,Yes,Recovered,3.9,7539
+NGD00310,2025-05-18,2025-05-13,Concepcion Grande,14,Minor,Female,Probable,No,Recovered,37.2,10804
+NGD00311,2025-05-23,2025-05-19,Concepcion Pequeña,76,Senior,Male,Confirmed,Yes,Recovered,50,26192
+NGD00312,2025-05-26,2025-05-21,Concepcion Pequeña,22,Young_Adult,Male,Confirmed,No,Recovered,0,26192
+NGD00313,2025-05-13,2025-05-07,Concepcion Pequeña,5,Minor,Female,Confirmed,Yes,Recovered,203.1,26192
+NGD00314,2025-05-12,2025-05-04,Concepcion Pequeña,35,Young_Adult,Male,Suspected,Yes,Recovered,107.7,26192
+NGD00315,2025-05-09,2025-05-04,Concepcion Pequeña,38,Adult,Female,Confirmed,No,Recovered,61.1,26192
+NGD00316,2025-05-02,2025-04-28,Concepcion Pequeña,29,Young_Adult,Female,Confirmed,No,Recovered,33.5,26192
+NGD00317,2025-05-04,2025-05-01,Concepcion Pequeña,18,Young_Adult,Female,Probable,No,Recovered,27.1,26192
+NGD00318,2025-05-21,2025-05-13,Concepcion Pequeña,10,Minor,Male,Confirmed,No,Recovered,84.9,26192
+NGD00319,2025-05-10,2025-05-09,Concepcion Pequeña,50,Adult,Female,Confirmed,Yes,Recovered,158.3,26192
+NGD00320,2025-05-28,2025-05-27,Concepcion Pequeña,36,Adult,Female,Confirmed,No,Recovered,21,26192
+NGD00321,2025-05-02,2025-04-25,Concepcion Pequeña,19,Young_Adult,Male,Confirmed,No,Recovered,21.7,26192
+NGD00322,2025-05-10,2025-05-09,Concepcion Pequeña,32,Young_Adult,Female,Confirmed,No,Recovered,41.9,26192
+NGD00323,2025-05-11,2025-05-06,Concepcion Pequeña,27,Young_Adult,Male,Probable,No,Recovered,151.9,26192
+NGD00324,2025-05-31,2025-05-28,Dayangdang,21,Young_Adult,Male,Confirmed,No,Recovered,81.7,3538
+NGD00325,2025-05-24,2025-05-16,Del Rosario,31,Young_Adult,Male,Suspected,Yes,Recovered,59.9,10253
+NGD00326,2025-05-10,2025-05-06,Del Rosario,35,Young_Adult,Female,Confirmed,No,Recovered,35.5,10253
+NGD00327,2025-05-14,2025-05-08,Del Rosario,38,Adult,Female,Confirmed,Yes,Ongoing,175.1,10253
+NGD00328,2025-05-16,2025-05-10,Del Rosario,12,Minor,Female,Confirmed,No,Recovered,29.1,10253
+NGD00329,2025-05-09,2025-05-03,Del Rosario,72,Senior,Male,Confirmed,No,Recovered,103.8,10253
+NGD00330,2025-05-12,2025-05-08,Dinaga,13,Minor,Female,Confirmed,No,Recovered,77.4,248
+NGD00331,2025-05-22,2025-05-17,Igualdad Interior,20,Young_Adult,Female,Confirmed,No,Recovered,155.3,2814
+NGD00332,2025-05-08,2025-05-04,Liboton,5,Minor,Female,Confirmed,No,Ongoing,0,2906
+NGD00333,2025-05-12,2025-05-05,Mabolo,4,Minor,Male,Suspected,No,Recovered,0,8408
+NGD00334,2025-05-25,2025-05-21,Mabolo,32,Young_Adult,Female,Confirmed,No,Recovered,43,8408
+NGD00335,2025-05-30,2025-05-28,Mabolo,10,Minor,Female,Suspected,No,Recovered,42.7,8408
+NGD00336,2025-05-18,2025-05-15,Mabolo,19,Young_Adult,Female,Confirmed,No,Recovered,87.9,8408
+NGD00337,2025-05-07,2025-04-29,Pacol,6,Minor,Female,Suspected,No,Recovered,20.5,15881
+NGD00338,2025-05-05,2025-04-28,Pacol,33,Young_Adult,Male,Confirmed,No,Recovered,68.9,15881
+NGD00339,2025-05-10,2025-05-09,Pacol,11,Minor,Male,Confirmed,Yes,Recovered,147.3,15881
+NGD00340,2025-05-03,2025-05-02,Pacol,8,Minor,Male,Confirmed,Yes,Ongoing,14.9,15881
+NGD00341,2025-05-30,2025-05-28,Pacol,18,Young_Adult,Male,Confirmed,No,Recovered,79,15881
+NGD00342,2025-05-25,2025-05-18,Pacol,36,Adult,Male,Probable,No,Recovered,202.6,15881
+NGD00343,2025-05-30,2025-05-23,Pacol,29,Young_Adult,Male,Confirmed,No,Recovered,46,15881
+NGD00344,2025-05-05,2025-04-29,Pacol,28,Young_Adult,Female,Confirmed,No,Recovered,113.9,15881
+NGD00345,2025-05-24,2025-05-20,Pacol,40,Adult,Female,Suspected,No,Recovered,16.1,15881
+NGD00346,2025-05-24,2025-05-17,Pacol,11,Minor,Male,Suspected,Yes,Recovered,0,15881
+NGD00347,2025-05-09,2025-05-05,Pacol,31,Young_Adult,Female,Confirmed,No,Recovered,193.6,15881
+NGD00348,2025-05-30,2025-05-29,Panicuason,17,Minor,Female,Confirmed,Yes,Recovered,100.5,3224
+NGD00349,2025-05-20,2025-05-19,Panicuason,23,Young_Adult,Female,Suspected,No,Recovered,69.6,3224
+NGD00350,2025-05-07,2025-05-06,Peñafrancia,20,Young_Adult,Female,Confirmed,Yes,Recovered,33.4,4219
+NGD00351,2025-05-24,2025-05-18,Peñafrancia,10,Minor,Male,Confirmed,No,Ongoing,147.2,4219
+NGD00352,2025-05-17,2025-05-13,Peñafrancia,43,Adult,Male,Confirmed,Yes,Recovered,101.1,4219
+NGD00353,2025-05-29,2025-05-26,Peñafrancia,83,Senior,Male,Confirmed,Yes,Recovered,58.5,4219
+NGD00354,2025-05-21,2025-05-14,San Felipe,17,Minor,Male,Suspected,No,Recovered,20.4,22432
+NGD00355,2025-05-06,2025-04-28,San Felipe,23,Young_Adult,Female,Suspected,Yes,Recovered,104.1,22432
+NGD00356,2025-05-26,2025-05-18,San Felipe,4,Minor,Female,Confirmed,No,Recovered,39.4,22432
+NGD00357,2025-05-05,2025-04-28,San Felipe,11,Minor,Female,Confirmed,Yes,Recovered,67.1,22432
+NGD00358,2025-05-15,2025-05-09,San Felipe,31,Young_Adult,Female,Confirmed,No,Recovered,4.5,22432
+NGD00359,2025-05-13,2025-05-12,San Felipe,19,Young_Adult,Female,Confirmed,No,Recovered,157,22432
+NGD00360,2025-05-18,2025-05-14,San Felipe,15,Minor,Male,Confirmed,No,Recovered,52.4,22432
+NGD00361,2025-05-30,2025-05-29,San Felipe,14,Minor,Female,Probable,No,Recovered,58.4,22432
+NGD00362,2025-05-25,2025-05-17,San Felipe,22,Young_Adult,Female,Suspected,No,Recovered,34.9,22432
+NGD00363,2025-05-08,2025-05-02,San Felipe,29,Young_Adult,Male,Confirmed,No,Recovered,140.5,22432
+NGD00364,2025-05-09,2025-05-03,San Felipe,31,Young_Adult,Male,Confirmed,No,Recovered,200.9,22432
+NGD00365,2025-05-25,2025-05-19,San Felipe,7,Minor,Female,Confirmed,No,Recovered,62.6,22432
+NGD00366,2025-05-08,2025-05-05,San Felipe,46,Adult,Female,Confirmed,No,Recovered,57.6,22432
+NGD00367,2025-05-14,2025-05-09,San Felipe,15,Minor,Female,Confirmed,Yes,Recovered,0,22432
+NGD00368,2025-05-08,2025-04-30,San Isidro,6,Minor,Male,Confirmed,No,Ongoing,85.1,3789
+NGD00369,2025-05-21,2025-05-13,Santa Cruz,24,Young_Adult,Male,Confirmed,No,Recovered,21.5,6397
+NGD00370,2025-05-24,2025-05-16,Santa Cruz,9,Minor,Female,Probable,No,Recovered,72.8,6397
+NGD00371,2025-05-02,2025-05-01,Santa Cruz,20,Young_Adult,Female,Probable,No,Recovered,169.1,6397
+NGD00372,2025-05-14,2025-05-11,Santa Cruz,11,Minor,Female,Confirmed,Yes,Recovered,0,6397
+NGD00373,2025-05-15,2025-05-09,Tabuco,14,Minor,Female,Confirmed,No,Recovered,175.4,3825
+NGD00374,2025-05-16,2025-05-08,Tabuco,21,Young_Adult,Female,Confirmed,No,Recovered,125.7,3825
+NGD00375,2025-05-17,2025-05-12,Tabuco,35,Young_Adult,Male,Confirmed,No,Recovered,91.5,3825
+NGD00376,2025-05-26,2025-05-23,Tinago,9,Minor,Female,Probable,No,Recovered,78.4,2386
+NGD00377,2025-05-20,2025-05-15,Triangulo,26,Young_Adult,Male,Confirmed,No,Recovered,Unclassified,7933
+NGD00378,2025-05-13,2025-05-05,Triangulo,7,Minor,Female,Probable,Yes,Recovered,21.6,7933
+NGD00379,2025-06-28,2025-06-26,Abella,27,Young_Adult,Female,Confirmed,Yes,Recovered,141.1,5401
+NGD00380,2025-06-02,2025-06-01,Abella,41,Adult,Female,Confirmed,No,Recovered,138.4,5401
+NGD00381,2025-06-11,2025-06-09,Abella,8,Minor,Female,Confirmed,No,Recovered,152.4,5401
+NGD00382,2025-06-19,2025-06-11,Bagumbayan Norte,30,Young_Adult,Male,Confirmed,Yes,Recovered,299.1,2024
+NGD00383,2025-06-29,2025-06-28,Bagumbayan Sur,32,Young_Adult,Female,Probable,Yes,Recovered,168.4,7366
+NGD00384,2025-06-19,2025-06-16,Bagumbayan Sur,10,Minor,Male,Probable,Yes,Recovered,71.9,7366
+NGD00385,2025-06-19,2025-06-12,Bagumbayan Sur,32,Young_Adult,Male,Confirmed,No,Recovered,188.1,7366
+NGD00386,2025-06-23,2025-06-21,Bagumbayan Sur,19,Young_Adult,Male,Confirmed,No,Recovered,164.8,7366
+NGD00387,2025-06-11,2025-06-04,Bagumbayan Sur,7,Minor,Male,Confirmed,Yes,Ongoing,230.2,7366
+NGD00388,2025-06-16,2025-06-12,Bagumbayan Sur,20,Young_Adult,Male,Confirmed,Yes,Recovered,195.5,7366
+NGD00389,2025-06-19,2025-06-12,Bagumbayan Sur,46,Adult,Female,Suspected,Yes,Recovered,172.3,7366
+NGD00390,2025-06-03,2025-06-01,Bagumbayan Sur,34,Young_Adult,Male,Confirmed,No,Recovered,244.5,7366
+NGD00391,2025-06-24,2025-06-17,Bagumbayan Sur,27,Young_Adult,Male,Confirmed,Yes,Recovered,181.7,7366
+NGD00392,2025-06-15,2025-06-09,Balatas,37,Adult,Male,Confirmed,Yes,Recovered,211.8,11265
+NGD00393,2025-06-18,2025-06-11,Balatas,46,Adult,Female,Confirmed,Yes,Recovered,181.2,11265
+NGD00394,2025-06-20,2025-06-14,Calauag,19,Young_Adult,Male,Confirmed,No,Recovered,178.9,10738
+NGD00395,2025-06-24,2025-06-20,Calauag,19,Young_Adult,Female,Suspected,Yes,Recovered,133.2,10738
+NGD00396,2025-06-09,2025-06-01,Calauag,26,Young_Adult,Female,Confirmed,No,Recovered,103,10738
+NGD00397,2025-06-16,2025-06-14,Calauag,9,Minor,Male,Confirmed,Yes,Recovered,204.5,10738
+NGD00398,2025-06-20,2025-06-16,Calauag,27,Young_Adult,Male,Confirmed,Yes,Recovered,260,10738
+NGD00399,2025-06-11,2025-06-04,Calauag,12,Minor,Male,Confirmed,No,Recovered,215.7,10738
+NGD00400,2025-06-21,2025-06-18,Calauag,7,Minor,Male,Confirmed,No,Recovered,119.2,10738
+NGD00401,2025-06-11,2025-06-08,Calauag,35,Young_Adult,Male,Probable,Yes,Recovered,159.5,10738
+NGD00402,2025-06-16,2025-06-12,Calauag,12,Minor,Male,Confirmed,No,Recovered,64.8,10738
+NGD00403,2025-06-04,2025-05-31,Cararayan,7,Minor,Female,Suspected,No,Recovered,83.2,22596
+NGD00404,2025-06-15,2025-06-11,Cararayan,45,Adult,Male,Suspected,No,Recovered,148.5,22596
+NGD00405,2025-06-28,2025-06-21,Cararayan,15,Minor,Male,Confirmed,Yes,Recovered,320.7,22596
+NGD00406,2025-06-05,2025-05-29,Cararayan,24,Young_Adult,Male,Confirmed,No,Recovered,142.2,22596
+NGD00407,2025-06-13,2025-06-06,Cararayan,70,Senior,Female,Suspected,Yes,Recovered,246.5,22596
+NGD00408,2025-06-18,2025-06-16,Cararayan,14,Minor,Female,Suspected,No,Recovered,225.5,22596
+NGD00409,2025-06-21,2025-06-20,Cararayan,12,Minor,Male,Probable,Yes,Recovered,179.8,22596
+NGD00410,2025-06-04,2025-06-03,Cararayan,43,Adult,Female,Confirmed,No,Recovered,144.3,22596
+NGD00411,2025-06-19,2025-06-15,Cararayan,24,Young_Adult,Male,Confirmed,No,Recovered,261.3,22596
+NGD00412,2025-06-23,2025-06-20,Cararayan,16,Minor,Male,Probable,No,Recovered,131.3,22596
+NGD00413,2025-06-30,2025-06-28,Cararayan,21,Young_Adult,Female,Suspected,No,Recovered,Unclassified,22596
+NGD00414,2025-06-11,2025-06-03,Cararayan,25,Young_Adult,Female,Confirmed,Yes,Recovered,211.7,22596
+NGD00415,2025-06-24,2025-06-16,Cararayan,46,Adult,Male,Confirmed,Yes,Recovered,212,22596
+NGD00416,2025-06-01,2025-05-26,Cararayan,44,Adult,Female,Confirmed,Yes,Ongoing,163.3,22596
+NGD00417,2025-06-08,2025-06-05,Cararayan,64,Senior,Female,Confirmed,No,Recovered,264.9,22596
+NGD00418,2025-06-26,2025-06-19,Cararayan,7,Minor,Female,Confirmed,Unclassified,Recovered,115.4,22596
+NGD00419,2025-06-24,2025-06-20,Cararayan,24,Young_Adult,Male,Confirmed,No,Recovered,82.7,22596
+NGD00420,2025-06-07,2025-06-02,Cararayan,42,Adult,Female,Confirmed,No,Recovered,169.3,22596
+NGD00421,2025-06-12,2025-06-06,Cararayan,31,Young_Adult,Female,Confirmed,Yes,Recovered,150.7,22596
+NGD00422,2025-06-17,2025-06-11,Carolina,22,Young_Adult,Male,Confirmed,No,Recovered,277.5,7539
+NGD00423,2025-06-28,2025-06-20,Carolina,39,Adult,Female,Suspected,No,Recovered,222.8,7539
+NGD00424,2025-06-20,2025-06-18,Concepcion Grande,21,Young_Adult,Female,Confirmed,Yes,Recovered,168.8,10804
+NGD00425,2025-06-12,2025-06-09,Concepcion Grande,28,Young_Adult,Male,Confirmed,Yes,Recovered,167.8,10804
+NGD00426,2025-06-06,2025-05-29,Concepcion Grande,39,Adult,Female,Confirmed,No,Recovered,135.8,10804
+NGD00427,2025-06-11,2025-06-03,Concepcion Grande,15,Minor,Female,Suspected,No,Recovered,179.2,10804
+NGD00428,2025-06-07,2025-05-31,Concepcion Grande,2,Minor,Male,Confirmed,No,Recovered,228.6,10804
+NGD00429,2025-06-15,2025-06-07,Concepcion Pequeña,26,Young_Adult,Female,Confirmed,Yes,Recovered,184.8,26192
+NGD00430,2025-06-10,2025-06-09,Concepcion Pequeña,6,Minor,Male,Confirmed,Yes,Recovered,150.9,26192
+NGD00431,2025-06-19,2025-06-11,Concepcion Pequeña,9,Minor,Female,Confirmed,Yes,Recovered,211.2,26192
+NGD00432,2025-06-12,2025-06-11,Concepcion Pequeña,30,Young_Adult,Male,Confirmed,No,Recovered,178,26192
+NGD00433,2025-06-27,2025-06-23,Concepcion Pequeña,12,Minor,Male,Suspected,Yes,Recovered,162.7,26192
+NGD00434,2025-06-28,2025-06-26,Concepcion Pequeña,13,Minor,Male,Suspected,Yes,Recovered,135.4,26192
+NGD00435,2025-06-07,2025-06-01,Concepcion Pequeña,41,Adult,Male,Confirmed,Yes,Recovered,326.5,26192
+NGD00436,2025-06-07,2025-06-06,Concepcion Pequeña,29,Young_Adult,Male,Confirmed,No,Recovered,218.1,26192
+NGD00437,2025-06-23,2025-06-18,Concepcion Pequeña,28,Young_Adult,Male,Confirmed,No,Recovered,279.6,26192
+NGD00438,2025-06-29,2025-06-27,Concepcion Pequeña,10,Minor,Female,Probable,No,Recovered,19.3,26192
+NGD00439,2025-06-09,2025-06-06,Concepcion Pequeña,16,Minor,Female,Confirmed,No,Recovered,290.6,26192
+NGD00440,2025-06-25,2025-06-18,Concepcion Pequeña,33,Young_Adult,Male,Confirmed,No,Recovered,293.2,26192
+NGD00441,2025-06-13,2025-06-05,Concepcion Pequeña,50,Adult,Female,Confirmed,No,Recovered,183.1,26192
+NGD00442,2025-06-17,2025-06-12,Concepcion Pequeña,14,Minor,Male,Confirmed,No,Recovered,136,26192
+NGD00443,2025-06-28,2025-06-26,Concepcion Pequeña,45,Adult,Male,Confirmed,No,Recovered,137.7,26192
+NGD00444,2025-06-26,2025-06-19,Concepcion Pequeña,27,Young_Adult,Female,Probable,No,Recovered,166.1,26192
+NGD00445,2025-06-11,2025-06-06,Concepcion Pequeña,17,Minor,Male,Unclassified,Yes,Recovered,208.1,26192
+NGD00446,2025-06-26,2025-06-20,Concepcion Pequeña,38,Adult,Female,Confirmed,No,Recovered,175.7,26192
+NGD00447,2025-06-01,2025-05-30,Concepcion Pequeña,10,Minor,Female,Confirmed,Yes,Recovered,179.7,26192
+NGD00448,2025-06-07,2025-06-04,Concepcion Pequeña,16,Minor,Male,Confirmed,No,Recovered,243.2,26192
+NGD00449,2025-06-21,2025-06-15,Concepcion Pequeña,4,Minor,Male,Confirmed,No,Recovered,191,26192
+NGD00450,2025-06-02,2025-05-26,Concepcion Pequeña,64,Senior,Male,Suspected,No,Recovered,239.4,26192
+NGD00451,2025-06-03,2025-06-01,Concepcion Pequeña,36,Adult,Female,Confirmed,Yes,Recovered,169.4,26192
+NGD00452,2025-06-17,2025-06-09,Concepcion Pequeña,30,Young_Adult,Female,Confirmed,Yes,Recovered,133.5,26192
+NGD00453,2025-06-28,2025-06-21,Concepcion Pequeña,37,Adult,Female,Confirmed,Yes,Recovered,156.5,26192
+NGD00454,2025-06-26,2025-06-24,Del Rosario,19,Young_Adult,Female,Confirmed,No,Recovered,116,10253
+NGD00455,2025-06-25,2025-06-22,Del Rosario,23,Young_Adult,Female,Confirmed,No,Recovered,257.7,10253
+NGD00456,2025-06-06,2025-05-29,Del Rosario,26,Young_Adult,Male,Suspected,No,Recovered,177.5,10253
+NGD00457,2025-06-14,2025-06-06,Del Rosario,10,Minor,Female,Confirmed,Yes,Recovered,203.6,10253
+NGD00458,2025-06-19,2025-06-12,Del Rosario,9,Minor,Male,Probable,Yes,Recovered,166,10253
+NGD00459,2025-06-09,2025-06-07,Igualdad Interior,25,Young_Adult,Female,Confirmed,No,Recovered,160.6,2814
+NGD00460,2025-06-25,2025-06-24,Igualdad Interior,26,Young_Adult,Male,Confirmed,No,Recovered,196.7,2814
+NGD00461,2025-06-13,2025-06-08,Lerma,48,Adult,Female,Suspected,No,Recovered,173.5,1430
+NGD00462,2025-06-13,2025-06-11,Liboton,15,Minor,Female,Confirmed,No,Recovered,234.6,2906
+NGD00463,2025-06-01,2025-05-26,Mabolo,14,Minor,Male,Confirmed,No,Recovered,68.4,8408
+NGD00464,2025-06-12,2025-06-09,Mabolo,46,Adult,Male,Probable,No,Recovered,263.7,8408
+NGD00465,2025-06-03,2025-06-02,Mabolo,21,Young_Adult,Male,Confirmed,No,Recovered,247.4,8408
+NGD00466,2025-06-13,2025-06-08,Mabolo,11,Minor,Male,Confirmed,No,Recovered,197.8,8408
+NGD00467,2025-06-18,2025-06-15,Pacol,4,Minor,Male,Confirmed,Yes,Recovered,186.9,15881
+NGD00468,2025-06-26,2025-06-23,Pacol,31,Young_Adult,Male,Confirmed,No,Recovered,189.9,15881
+NGD00469,2025-06-22,2025-06-20,Pacol,35,Young_Adult,Male,Suspected,No,Recovered,216.7,15881
+NGD00470,2025-06-02,2025-05-29,Pacol,29,Young_Adult,Female,Probable,Yes,Recovered,166.7,15881
+NGD00471,2025-06-02,2025-05-28,Pacol,11,Minor,Female,Confirmed,No,Recovered,188.3,15881
+NGD00472,2025-06-06,2025-05-29,Pacol,43,Adult,Male,Confirmed,No,Recovered,173.4,15881
+NGD00473,2025-06-06,2025-05-31,Pacol,26,Young_Adult,Female,Suspected,No,Recovered,176.5,15881
+NGD00474,2025-06-04,2025-06-03,Pacol,15,Minor,Male,Suspected,Yes,Recovered,175,15881
+NGD00475,2025-06-23,2025-06-21,Pacol,19,Young_Adult,Male,Confirmed,Yes,Recovered,203.2,15881
+NGD00476,2025-06-19,2025-06-16,Panicuason,38,Adult,Male,Confirmed,No,Recovered,151,3224
+NGD00477,2025-06-22,2025-06-20,Panicuason,28,Young_Adult,Female,Suspected,Yes,Recovered,281.1,3224
+NGD00478,2025-06-01,2025-05-28,Peñafrancia,4,Minor,Female,Confirmed,No,Recovered,163.7,4219
+NGD00479,2025-06-30,2025-06-29,Sabang,40,Adult,Male,Confirmed,Yes,Recovered,274.1,6274
+NGD00480,2025-06-11,2025-06-06,San Felipe,35,Young_Adult,Female,Confirmed,Yes,Recovered,144.3,22432
+NGD00481,2025-06-02,2025-05-30,San Felipe,23,Young_Adult,Female,Suspected,No,Recovered,243.9,22432
+NGD00482,2025-06-03,2025-05-26,San Felipe,28,Young_Adult,Male,Suspected,Yes,Recovered,244,22432
+NGD00483,2025-06-15,2025-06-14,San Felipe,40,Adult,Male,Confirmed,No,Recovered,207.6,22432
+NGD00484,2025-06-20,2025-06-16,San Felipe,33,Young_Adult,Male,Confirmed,No,Ongoing,327.8,22432
+NGD00485,2025-06-25,2025-06-21,San Felipe,14,Minor,Female,Confirmed,No,Recovered,79.3,22432
+NGD00486,2025-06-18,2025-06-12,San Felipe,38,Adult,Female,Probable,Yes,Recovered,192.7,22432
+NGD00487,2025-06-28,2025-06-23,San Felipe,56,Adult,Female,Confirmed,No,Recovered,252.3,22432
+NGD00488,2025-06-02,2025-05-30,San Felipe,10,Minor,Male,Confirmed,No,Recovered,223.1,22432
+NGD00489,2025-06-17,2025-06-10,San Felipe,19,Young_Adult,Male,Confirmed,No,Recovered,133.6,22432
+NGD00490,2025-06-17,2025-06-14,San Felipe,29,Young_Adult,Male,Confirmed,No,Recovered,187.9,22432
+NGD00491,2025-06-05,2025-06-01,San Felipe,23,Young_Adult,Male,Confirmed,Yes,Recovered,273.2,22432
+NGD00492,2025-06-23,2025-06-17,San Felipe,21,Young_Adult,Male,Confirmed,Yes,Recovered,169.9,22432
+NGD00493,2025-06-05,2025-06-03,Santa Cruz,7,Minor,Female,Confirmed,No,Recovered,175.4,6397
+NGD00494,2025-06-04,2025-05-29,Tabuco,19,Young_Adult,Female,Confirmed,No,Recovered,180.4,3825
+NGD00495,2025-07-03,2025-06-30,Abella,27,Young_Adult,Male,Suspected,No,Recovered,253.7,5401
+NGD00496,2025-07-27,2025-07-21,Bagumbayan Sur,24,Young_Adult,Female,Confirmed,Yes,Recovered,61.1,7366
+NGD00497,2025-07-17,2025-07-16,Bagumbayan Sur,21,Young_Adult,Male,Confirmed,No,Recovered,141,7366
+NGD00498,2025-07-13,2025-07-05,Bagumbayan Sur,6,Minor,Female,Confirmed,Yes,Recovered,225.7,7366
+NGD00499,2025-07-04,2025-07-03,Bagumbayan Sur,20,Young_Adult,Female,Suspected,No,Recovered,93,7366
+NGD00500,2025-07-27,2025-07-20,Balatas,38,Adult,Male,Suspected,No,Recovered,188,11265
+NGD00501,2025-07-19,2025-07-14,Balatas,14,Minor,Female,Confirmed,Yes,Recovered,165.2,11265
+NGD00502,2025-07-15,2025-07-12,Balatas,11,Minor,Female,Probable,No,Recovered,131.2,11265
+NGD00503,2025-07-02,2025-06-24,Balatas,18,Young_Adult,Female,Confirmed,No,Recovered,172.8,11265
+NGD00504,2025-07-13,2025-07-05,Balatas,23,Young_Adult,Female,Confirmed,No,Recovered,208.2,11265
+NGD00505,2025-07-30,2025-07-27,Calauag,20,Young_Adult,Male,Confirmed,No,Recovered,146.3,10738
+NGD00506,2025-07-20,2025-07-16,Calauag,28,Young_Adult,Male,Confirmed,No,Recovered,183.2,10738
+NGD00507,2025-07-03,2025-06-28,Calauag,13,Minor,Male,Confirmed,Yes,Recovered,178.2,10738
+NGD00508,2025-07-17,2025-07-13,Calauag,19,Young_Adult,Female,Probable,No,Recovered,327.3,10738
+NGD00509,2025-07-18,2025-07-10,Calauag,16,Minor,Male,Probable,No,Recovered,188.8,10738
+NGD00510,2025-07-06,2025-07-05,Calauag,10,Minor,Male,Confirmed,Yes,Recovered,227.1,10738
+NGD00511,2025-07-09,2025-07-08,Calauag,48,Adult,Male,Confirmed,No,Fatal,144.5,10738
+NGD00512,2025-07-06,2025-07-04,Cararayan,61,Senior,Female,Confirmed,Yes,Recovered,165.4,22596
+NGD00513,2025-07-30,2025-07-29,Cararayan,51,Adult,Female,Confirmed,No,Recovered,195.9,22596
+NGD00514,2025-07-30,2025-07-27,Cararayan,26,Young_Adult,Female,Confirmed,Yes,Recovered,79.9,22596
+NGD00515,2025-07-12,2025-07-11,Cararayan,13,Minor,Male,Unclassified,No,Recovered,251.7,22596
+NGD00516,2025-07-07,2025-06-29,Cararayan,5,Minor,Male,Confirmed,Yes,Recovered,125.7,22596
+NGD00517,2025-07-20,2025-07-16,Cararayan,53,Adult,Female,Confirmed,Yes,Recovered,119.2,22596
+NGD00518,2025-07-07,2025-07-04,Cararayan,19,Young_Adult,Male,Suspected,No,Recovered,127,22596
+NGD00519,2025-07-11,2025-07-10,Cararayan,16,Minor,Female,Confirmed,No,Recovered,252.1,22596
+NGD00520,2025-07-04,2025-06-28,Cararayan,50,Adult,Female,Confirmed,No,Recovered,171.7,22596
+NGD00521,2025-07-04,2025-06-28,Cararayan,13,Minor,Male,Confirmed,No,Recovered,233.1,22596
+NGD00522,2025-07-14,2025-07-06,Cararayan,56,Adult,Male,Confirmed,No,Recovered,284,22596
+NGD00523,2025-07-30,2025-07-24,Cararayan,16,Minor,Female,Confirmed,No,Recovered,153.9,22596
+NGD00524,2025-07-24,2025-07-19,Cararayan,22,Young_Adult,Female,Confirmed,Yes,Recovered,174.4,22596
+NGD00525,2025-07-19,2025-07-12,Cararayan,29,Young_Adult,Female,Confirmed,Yes,Recovered,175.1,22596
+NGD00526,2025-07-20,2025-07-16,Cararayan,17,Minor,Female,Probable,Yes,Recovered,80.8,22596
+NGD00527,2025-07-08,2025-07-02,Cararayan,17,Minor,Male,Confirmed,No,Recovered,218.3,22596
+NGD00528,2025-07-23,2025-07-17,Cararayan,18,Young_Adult,Male,Confirmed,Yes,Recovered,95.3,22596
+NGD00529,2025-07-12,2025-07-07,Cararayan,6,Minor,Female,Suspected,Yes,Recovered,114.3,22596
+NGD00530,2025-07-14,2025-07-11,Cararayan,24,Young_Adult,Male,Confirmed,Yes,Recovered,266.5,22596
+NGD00531,2025-07-04,2025-06-26,Cararayan,26,Young_Adult,Female,Confirmed,Yes,Recovered,80.9,22596
+NGD00532,2025-07-10,2025-07-09,Carolina,15,Minor,Male,Confirmed,Yes,Recovered,71.1,7539
+NGD00533,2025-07-29,2025-07-22,Carolina,35,Young_Adult,Female,Suspected,No,Recovered,170.5,7539
+NGD00534,2025-07-03,2025-06-27,Concepcion Grande,9,Minor,Male,Suspected,No,Recovered,178.3,10804
+NGD00535,2025-07-20,2025-07-13,Concepcion Grande,15,Minor,Female,Confirmed,Yes,Ongoing,194,10804
+NGD00536,2025-07-14,2025-07-09,Concepcion Grande,30,Young_Adult,Male,Confirmed,Yes,Recovered,160.1,10804
+NGD00537,2025-07-18,2025-07-10,Concepcion Grande,27,Young_Adult,Female,Confirmed,Yes,Recovered,214.2,10804
+NGD00538,2025-07-27,2025-07-19,Concepcion Grande,17,Minor,Female,Confirmed,Yes,Recovered,173.1,10804
+NGD00539,2025-07-03,2025-06-25,Concepcion Grande,9,Minor,Female,Confirmed,No,Recovered,241.9,10804
+NGD00540,2025-07-22,2025-07-17,Concepcion Grande,21,Young_Adult,Female,Confirmed,No,Recovered,100.4,10804
+NGD00541,2025-07-13,2025-07-07,Concepcion Grande,12,Minor,Female,Confirmed,Yes,Recovered,147.2,10804
+NGD00542,2025-07-08,2025-07-03,Concepcion Pequeña,50,Adult,Female,Confirmed,No,Recovered,245.7,26192
+NGD00543,2025-07-22,2025-07-16,Concepcion Pequeña,17,Minor,Male,Probable,No,Recovered,210.6,26192
+NGD00544,2025-07-27,2025-07-20,Concepcion Pequeña,24,Young_Adult,Male,Probable,No,Recovered,244.1,26192
+NGD00545,2025-07-19,2025-07-15,Concepcion Pequeña,19,Young_Adult,Male,Confirmed,No,Recovered,212.6,26192
+NGD00546,2025-07-02,2025-06-29,Concepcion Pequeña,66,Senior,Female,Probable,No,Recovered,166.7,26192
+NGD00547,2025-07-06,2025-07-02,Concepcion Pequeña,12,Minor,Female,Confirmed,No,Ongoing,202.4,26192
+NGD00548,2025-07-14,2025-07-10,Concepcion Pequeña,44,Adult,Female,Suspected,Yes,Recovered,150.8,26192
+NGD00549,2025-07-30,2025-07-28,Concepcion Pequeña,40,Adult,Female,Confirmed,No,Recovered,208.2,26192
+NGD00550,2025-07-09,2025-07-01,Concepcion Pequeña,31,Young_Adult,Female,Suspected,No,Recovered,219.4,26192
+NGD00551,2025-07-14,2025-07-12,Concepcion Pequeña,36,Adult,Male,Confirmed,No,Recovered,221.5,26192
+NGD00552,2025-07-31,2025-07-29,Concepcion Pequeña,32,Young_Adult,Female,Confirmed,Yes,Recovered,204.7,26192
+NGD00553,2025-07-18,2025-07-12,Concepcion Pequeña,22,Young_Adult,Male,Confirmed,No,Recovered,131.5,26192
+NGD00554,2025-07-16,2025-07-15,Concepcion Pequeña,5,Minor,Female,Confirmed,Yes,Recovered,90.2,26192
+NGD00555,2025-07-23,2025-07-16,Concepcion Pequeña,12,Minor,Female,Confirmed,No,Recovered,163.1,26192
+NGD00556,2025-07-02,2025-06-24,Concepcion Pequeña,23,Young_Adult,Male,Suspected,Yes,Recovered,213.5,26192
+NGD00557,2025-07-10,2025-07-05,Concepcion Pequeña,22,Young_Adult,Male,Suspected,No,Recovered,135.1,26192
+NGD00558,2025-07-28,2025-07-24,Concepcion Pequeña,20,Young_Adult,Female,Confirmed,No,Recovered,184.5,26192
+NGD00559,2025-07-11,2025-07-06,Concepcion Pequeña,6,Minor,Male,Confirmed,Yes,Recovered,138.1,26192
+NGD00560,2025-07-30,2025-07-23,Concepcion Pequeña,38,Adult,Male,Suspected,No,Recovered,145.4,26192
+NGD00561,2025-07-17,2025-07-14,Concepcion Pequeña,37,Adult,Female,Confirmed,No,Recovered,169.3,26192
+NGD00562,2025-07-28,2025-07-27,Concepcion Pequeña,6,Minor,Female,Confirmed,No,Recovered,172.7,26192
+NGD00563,2025-07-08,2025-07-07,Concepcion Pequeña,23,Young_Adult,Male,Confirmed,Yes,Recovered,195.3,26192
+NGD00564,2025-07-12,2025-07-04,Concepcion Pequeña,12,Minor,Male,Confirmed,Yes,Recovered,198.4,26192
+NGD00565,2025-07-12,2025-07-04,Concepcion Pequeña,25,Young_Adult,Male,Confirmed,No,Recovered,191.5,26192
+NGD00566,2025-07-12,2025-07-06,Dayangdang,16,Minor,Female,Suspected,Yes,Recovered,193,3538
+NGD00567,2025-07-03,2025-06-28,Del Rosario,50,Adult,Female,Confirmed,Yes,Recovered,145.6,10253
+NGD00568,2025-07-31,2025-07-27,Del Rosario,22,Young_Adult,Female,Confirmed,No,Recovered,162,10253
+NGD00569,2025-07-14,2025-07-13,Del Rosario,25,Young_Adult,Female,Confirmed,Yes,Recovered,132.8,10253
+NGD00570,2025-07-26,2025-07-25,Del Rosario,44,Adult,Female,Confirmed,No,Recovered,106,10253
+NGD00571,2025-07-31,2025-07-26,Del Rosario,12,Minor,female,Suspected,No,Recovered,236.5,10253
+NGD00572,2025-07-07,2025-06-29,Del Rosario,14,Minor,Male,Confirmed,No,Recovered,226.8,10253
+NGD00573,2025-07-04,2025-07-03,Igualdad Interior,20,Young_Adult,Male,Confirmed,No,Recovered,45.9,2814
+NGD00574,2025-07-22,2025-07-20,Lerma,20,Young_Adult,Male,Confirmed,No,Recovered,208.7,1430
+NGD00575,2025-07-28,2025-07-23,Liboton,12,Minor,Male,Confirmed,No,Recovered,213.9,2906
+NGD00576,2025-07-07,2025-07-04,Liboton,46,Adult,Female,Suspected,No,Recovered,202.4,2906
+NGD00577,2025-07-20,2025-07-13,Liboton,20,Young_Adult,Male,Suspected,No,Recovered,100.6,2906
+NGD00578,2025-07-10,2025-07-05,Liboton,2,Minor,Male,Confirmed,No,Recovered,102.7,2906
+NGD00579,2025-07-19,2025-07-15,Liboton,7,Minor,Male,Suspected,Yes,Recovered,155.1,2906
+NGD00580,2025-07-26,2025-07-18,Mabolo,52,Adult,Male,Confirmed,No,Recovered,250.1,8408
+NGD00581,2025-07-29,2025-07-26,Mabolo,37,Adult,Male,Confirmed,Yes,Recovered,114.6,8408
+NGD00582,2025-07-26,2025-07-23,Mabolo,57,Adult,Male,Confirmed,Yes,Recovered,190.6,8408
+NGD00583,2025-07-28,2025-07-23,Mabolo,20,Young_Adult,Male,Suspected,Yes,Recovered,150.1,8408
+NGD00584,2025-07-10,2025-07-02,Mabolo,20,Young_Adult,Female,Confirmed,No,Recovered,84.1,8408
+NGD00585,2025-07-31,2025-07-29,Mabolo,24,Young_Adult,Male,Suspected,No,Recovered,167.4,8408
+NGD00586,2025-07-13,2025-07-08,Mabolo,10,Minor,Male,Confirmed,No,Recovered,222.8,8408
+NGD00587,2025-07-07,2025-07-01,Mabolo,2,Minor,Male,Probable,No,Ongoing,178.9,8408
+NGD00588,2025-07-05,2025-06-29,Mabolo,18,Young_Adult,Female,Suspected,No,Recovered,291,8408
+NGD00589,2025-07-06,2025-06-30,Pacol,26,Young_Adult,Female,Confirmed,Yes,Recovered,204.1,15881
+NGD00590,2025-07-06,2025-07-03,Pacol,22,Young_Adult,Male,Suspected,No,Recovered,166.9,15881
+NGD00591,2025-07-14,2025-07-07,Pacol,25,Young_Adult,Male,Confirmed,No,Recovered,185.6,15881
+NGD00592,2025-07-18,2025-07-14,Pacol,54,Adult,Male,Probable,No,Recovered,234.4,15881
+NGD00593,2025-07-17,2025-07-13,Pacol,7,Minor,Female,Confirmed,No,Recovered,189.5,15881
+NGD00594,2025-07-23,2025-07-17,Pacol,26,Young_Adult,Male,Confirmed,No,Recovered,55,15881
+NGD00595,2025-07-06,2025-07-04,Pacol,11,Minor,Female,Confirmed,Yes,Recovered,174.3,15881
+NGD00596,2025-07-20,2025-07-14,Pacol,5,Minor,Male,Suspected,No,Recovered,141.8,15881
+NGD00597,2025-07-29,2025-07-21,Pacol,22,Young_Adult,Male,Suspected,Yes,Recovered,181.1,15881
+NGD00598,2025-07-26,2025-07-19,Pacol,26,Young_Adult,Female,Confirmed,No,Recovered,168.7,15881
+NGD00599,2025-07-24,2025-07-23,Panicuason,14,Minor,Female,Confirmed,No,Recovered,250.5,3224
+NGD00600,2025-07-13,2025-07-08,Peñafrancia,32,Young_Adult,Female,Confirmed,Yes,Recovered,266.9,4219
+NGD00601,2025-07-27,2025-07-26,Peñafrancia,10,Minor,Female,Suspected,No,Recovered,215.1,4219
+NGD00602,2025-07-18,2025-07-13,Sabang,19,Young_Adult,Male,Suspected,Yes,Recovered,120.1,6274
+NGD00603,2025-07-01,2025-06-26,Sabang,20,Young_Adult,Male,Confirmed,No,Recovered,91.6,6274
+NGD00604,2025-07-20,2025-07-17,Sabang,25,Young_Adult,Male,Suspected,Yes,Recovered,150.9,6274
+NGD00605,2025-07-04,2025-06-29,Sabang,26,Young_Adult,Female,Suspected,No,Recovered,170.1,6274
+NGD00606,2025-07-25,2025-07-20,San Felipe,50,Adult,Female,Confirmed,No,Recovered,169,22432
+NGD00607,2025-07-18,2025-07-10,San Felipe,8,Minor,Female,Suspected,No,Recovered,156.4,22432
+NGD00608,2025-07-01,2025-06-29,San Felipe,32,Young_Adult,Female,Suspected,No,Recovered,182.6,22432
+NGD00609,2025-07-03,2025-07-01,San Felipe,28,Young_Adult,Female,Probable,No,Recovered,291.3,22432
+NGD00610,2025-07-10,2025-07-05,San Felipe,7,Minor,Male,Confirmed,No,Recovered,189,22432
+NGD00611,2025-07-28,2025-07-23,San Felipe,23,Young_Adult,Male,Suspected,Yes,Recovered,203.4,22432
+NGD00612,2025-07-04,2025-07-03,San Felipe,22,Young_Adult,Female,Suspected,No,Recovered,175.3,22432
+NGD00613,2025-07-12,2025-07-04,San Felipe,8,Minor,Male,Suspected,Yes,Recovered,219.6,22432
+NGD00614,2025-07-06,2025-07-04,San Felipe,8,Minor,Male,Confirmed,No,Recovered,192.8,22432
+NGD00615,2025-07-23,2025-07-15,San Felipe,8,Minor,Male,Confirmed,No,Recovered,162.8,22432
+NGD00616,2025-07-23,2025-07-22,San Felipe,22,Young_Adult,Female,Confirmed,No,Recovered,214,22432
+NGD00617,2025-07-19,2025-07-11,San Felipe,19,Young_Adult,Female,Confirmed,No,Recovered,111.2,22432
+NGD00618,2025-07-28,2025-07-25,San Felipe,33,Young_Adult,Male,Probable,Yes,Recovered,205.8,22432
+NGD00619,2025-07-02,2025-06-30,San Felipe,35,Young_Adult,Male,Confirmed,Yes,Recovered,156,22432
+NGD00620,2025-07-17,2025-07-13,San Felipe,21,Young_Adult,Male,Confirmed,No,Recovered,136.2,22432
+NGD00621,2025-07-14,2025-07-10,San Felipe,28,Young_Adult,Male,Confirmed,No,Recovered,220.9,22432
+NGD00622,2025-07-27,2025-07-26,San Felipe,20,Young_Adult,Female,Confirmed,Yes,Recovered,106.1,22432
+NGD00623,2025-07-28,2025-07-20,San Felipe,6,Minor,Female,Confirmed,No,Recovered,77.3,22432
+NGD00624,2025-07-09,2025-07-08,San Felipe,41,Adult,Female,Confirmed,Yes,Recovered,202.4,22432
+NGD00625,2025-07-03,2025-06-25,San Felipe,6,Minor,Male,Suspected,No,Recovered,113.4,22432
+NGD00626,2025-07-15,2025-07-09,San Felipe,35,Young_Adult,Female,Probable,No,Recovered,96.1,22432
+NGD00627,2025-07-13,2025-07-06,San Felipe,23,Young_Adult,Female,Confirmed,Yes,Recovered,157.6,22432
+NGD00628,2025-07-20,2025-07-15,San Felipe,34,Young_Adult,Female,Confirmed,No,Recovered,95.3,22432
+NGD00629,2025-07-27,2025-07-26,San Felipe,67,Senior,Female,Suspected,Yes,Recovered,268.9,22432
+NGD00630,2025-07-20,2025-07-12,San Isidro,24,Young_Adult,Male,Suspected,Yes,Recovered,160.2,3789
+NGD00631,2025-07-08,2025-07-07,San Isidro,8,Minor,Male,Confirmed,No,Recovered,200,3789
+NGD00632,2025-07-18,2025-07-12,San Isidro,17,Minor,Female,Confirmed,Yes,Recovered,204.4,3789
+NGD00633,2025-07-23,2025-07-16,San Isidro,25,Young_Adult,Female,Confirmed,Yes,Recovered,248,3789
+NGD00634,2025-07-28,2025-07-21,Santa Cruz,10,Minor,Female,Confirmed,No,Recovered,152.3,6397
+NGD00635,2025-07-04,2025-06-27,Santa Cruz,21,Young_Adult,Female,Probable,No,Recovered,218,6397
+NGD00636,2025-07-25,2025-07-17,Santa Cruz,1,Minor,Male,Confirmed,No,Recovered,120.2,6397
+NGD00637,2025-07-16,2025-07-15,Santa Cruz,9,Minor,Female,Confirmed,No,Recovered,247,6397
+NGD00638,2025-07-30,2025-07-27,Tabuco,37,Adult,Female,Suspected,Yes,Recovered,Unclassified,3825
+NGD00639,2025-07-20,2025-07-14,Tabuco,30,Young_Adult,Male,Confirmed,No,Recovered,260.3,3825
+NGD00640,2025-07-08,2025-07-03,Tabuco,5,Minor,Male,Probable,No,Recovered,184.7,3825
+NGD00641,2025-07-05,2025-07-02,Tinago,12,Minor,Male,Confirmed,No,Recovered,211.3,2386
+NGD00642,2025-07-27,2025-07-21,Triangulo,24,Young_Adult,Male,Confirmed,No,Recovered,237.9,7933
+NGD00643,2025-08-12,2025-08-09,Abella,10,Minor,Female,Confirmed,No,Recovered,239.5,5401
+NGD00644,2025-08-04,2025-07-29,Abella,41,Adult,Male,Confirmed,No,Recovered,192.7,5401
+NGD00645,2025-08-22,2025-08-17,Abella,31,Young_Adult,Male,Suspected,No,Recovered,156.8,5401
+NGD00646,2025-08-05,2025-08-04,Bagumbayan Norte,34,Young_Adult,Female,Confirmed,No,Recovered,204.2,2024
+NGD00647,2025-08-10,2025-08-05,Bagumbayan Sur,36,Adult,Female,Suspected,No,Recovered,96.5,7366
+NGD00648,2025-08-25,2025-08-24,Bagumbayan Sur,17,Minor,Male,Suspected,Yes,Recovered,190.6,7366
+NGD00649,2025-08-24,2025-08-20,Bagumbayan Sur,48,Adult,Male,Confirmed,No,Recovered,180.4,7366
+NGD00650,2025-08-10,2025-08-09,Bagumbayan Sur,14,Minor,Male,Confirmed,No,Ongoing,166.9,7366
+NGD00651,2025-08-11,2025-08-10,Bagumbayan Sur,26,Young_Adult,Female,Suspected,Yes,Recovered,61.6,7366
+NGD00652,2025-08-28,2025-08-20,Bagumbayan Sur,43,Adult,Female,Probable,No,Recovered,118.6,7366
+NGD00653,2025-08-25,2025-08-21,Bagumbayan Sur,10,Minor,Female,Confirmed,Yes,Recovered,238.3,7366
+NGD00654,2025-08-06,2025-08-03,Bagumbayan Sur,33,Young_Adult,Female,Confirmed,No,Recovered,241.1,7366
+NGD00655,2025-08-05,2025-08-02,Balatas,66,Senior,Male,Confirmed,No,Recovered,248.7,11265
+NGD00656,2025-08-02,2025-07-30,Balatas,6,Minor,Male,Confirmed,No,Recovered,145.4,11265
+NGD00657,2025-08-27,2025-08-22,Balatas,54,Adult,Male,Suspected,No,Recovered,141.3,11265
+NGD00658,2025-08-23,2025-08-17,Balatas,39,Adult,Female,Probable,No,Recovered,118.6,11265
+NGD00659,2025-08-06,2025-07-30,Balatas,46,Adult,Male,Confirmed,Yes,Recovered,209.8,11265
+NGD00660,2025-08-11,2025-08-05,Balatas,20,Young_Adult,Male,Confirmed,No,Recovered,241.5,11265
+NGD00661,2025-08-16,2025-08-15,Calauag,52,Adult,Female,Confirmed,No,Recovered,181.8,10738
+NGD00662,2025-08-20,2025-08-16,Calauag,13,Minor,Female,Suspected,Yes,Recovered,263.2,10738
+NGD00663,2025-08-31,2025-08-29,Calauag,14,Minor,Male,Confirmed,No,Recovered,78.5,10738
+NGD00664,2025-08-17,2025-08-11,Calauag,11,Minor,Male,Confirmed,Yes,Recovered,134.4,10738
+NGD00665,2025-08-11,2025-08-09,Calauag,14,Minor,Female,Confirmed,No,Recovered,129.3,10738
+NGD00666,2025-08-01,2025-07-30,Calauag,10,Minor,Female,Confirmed,No,Recovered,184.8,10738
+NGD00667,2025-08-14,2025-08-12,Cararayan,29,Young_Adult,Female,Confirmed,No,Ongoing,149.9,22596
+NGD00668,2025-08-25,2025-08-18,Cararayan,18,Young_Adult,Female,Suspected,Yes,Recovered,262.4,22596
+NGD00669,2025-08-11,2025-08-10,Cararayan,47,Adult,Female,Confirmed,Yes,Recovered,224.6,22596
+NGD00670,2025-08-03,2025-07-30,Cararayan,9,Minor,Male,Confirmed,Unclassified,Recovered,93.4,22596
+NGD00671,2025-08-11,2025-08-10,Cararayan,39,Adult,Male,Confirmed,No,Recovered,236,22596
+NGD00672,2025-08-20,2025-08-18,Cararayan,27,Young_Adult,Female,Suspected,Yes,Recovered,168.2,22596
+NGD00673,2025-08-04,2025-07-30,Cararayan,27,Young_Adult,Male,Confirmed,Yes,Recovered,237.6,22596
+NGD00674,2025-08-13,2025-08-06,Cararayan,45,Adult,Female,Confirmed,No,Recovered,182.4,22596
+NGD00675,2025-08-13,2025-08-08,Cararayan,19,Young_Adult,Female,Confirmed,No,Ongoing,211.5,22596
+NGD00676,2025-08-28,2025-08-22,Cararayan,21,Young_Adult,Female,Confirmed,No,Recovered,158.8,22596
+NGD00677,2025-08-01,2025-07-25,Cararayan,29,Young_Adult,Female,Confirmed,No,Recovered,178.7,22596
+NGD00678,2025-08-12,2025-08-08,Cararayan,20,Young_Adult,Male,Probable,No,Recovered,197.4,22596
+NGD00679,2025-08-06,2025-08-02,Carolina,25,Young_Adult,Male,Confirmed,Yes,Recovered,266.3,7539
+NGD00680,2025-08-28,2025-08-27,Carolina,48,Adult,Male,Confirmed,Yes,Recovered,152.3,7539
+NGD00681,2025-08-09,2025-08-07,Carolina,26,Young_Adult,Female,Suspected,No,Recovered,199.8,7539
+NGD00682,2025-08-05,2025-08-01,Carolina,32,Young_Adult,Female,Confirmed,Yes,Recovered,136.9,7539
+NGD00683,2025-08-16,2025-08-08,Concepcion Grande,13,Minor,Male,Confirmed,Yes,Recovered,268.8,10804
+NGD00684,2025-08-19,2025-08-13,Concepcion Grande,41,Adult,Male,Probable,Yes,Recovered,207.5,10804
+NGD00685,2025-08-26,2025-08-22,Concepcion Grande,30,Young_Adult,Male,Confirmed,Yes,Recovered,103,10804
+NGD00686,2025-08-11,2025-08-03,Concepcion Pequeña,25,Young_Adult,Male,Confirmed,No,Recovered,138,26192
+NGD00687,2025-08-04,2025-08-01,Concepcion Pequeña,23,Young_Adult,Female,Suspected,No,Recovered,188.5,26192
+NGD00688,2025-08-18,2025-08-14,Concepcion Pequeña,36,Adult,Male,Suspected,No,Recovered,136.8,26192
+NGD00689,2025-08-29,2025-08-28,Concepcion Pequeña,7,Minor,Female,Suspected,No,Recovered,240.9,26192
+NGD00690,2025-08-07,2025-08-06,Concepcion Pequeña,33,Young_Adult,Male,Confirmed,No,Recovered,106.4,26192
+NGD00691,2025-08-25,2025-08-22,Concepcion Pequeña,34,Young_Adult,Male,Confirmed,No,Recovered,91.2,26192
+NGD00692,2025-08-28,2025-08-23,Concepcion Pequeña,3,Minor,Female,Confirmed,No,Recovered,149.8,26192
+NGD00693,2025-08-17,2025-08-16,Concepcion Pequeña,38,Adult,Female,Suspected,No,Recovered,142,26192
+NGD00694,2025-08-06,2025-08-03,Concepcion Pequeña,22,Young_Adult,Male,Confirmed,No,Recovered,152.9,26192
+NGD00695,2025-08-28,2025-08-25,Concepcion Pequeña,52,Adult,Male,Probable,Yes,Recovered,141.5,26192
+NGD00696,2025-08-08,2025-08-06,Concepcion Pequeña,16,Minor,Male,Confirmed,Yes,Recovered,223.5,26192
+NGD00697,2025-08-30,2025-08-24,Concepcion Pequeña,28,Young_Adult,Male,Confirmed,No,Recovered,141.8,26192
+NGD00698,2025-08-21,2025-08-15,Concepcion Pequeña,28,Young_Adult,Female,Suspected,No,Recovered,120.3,26192
+NGD00699,2025-08-27,2025-08-22,Concepcion Pequeña,12,Minor,Female,Confirmed,Yes,Recovered,62,26192
+NGD00700,2025-08-29,2025-08-27,Concepcion Pequeña,31,Young_Adult,Male,Confirmed,No,Recovered,206.5,26192
+NGD00701,2025-08-12,2025-08-06,Concepcion Pequeña,31,Young_Adult,Male,Suspected,No,Recovered,117,26192
+NGD00702,2025-08-29,2025-08-26,Concepcion Pequeña,7,Minor,Male,Confirmed,Yes,Recovered,167.4,26192
+NGD00703,2025-08-07,2025-08-04,Concepcion Pequeña,12,Minor,Female,Confirmed,No,Recovered,103,26192
+NGD00704,2025-08-22,2025-08-18,Concepcion Pequeña,22,Young_Adult,Male,Suspected,No,Recovered,230.7,26192
+NGD00705,2025-08-16,2025-08-08,Concepcion Pequeña,30,Young_Adult,Female,Confirmed,No,Recovered,158.6,26192
+NGD00706,2025-08-08,2025-08-07,Concepcion Pequeña,56,Adult,Female,Confirmed,Yes,Recovered,206,26192
+NGD00707,2025-08-02,2025-07-30,Concepcion Pequeña,11,Minor,Female,Confirmed,No,Recovered,123,26192
+NGD00708,2025-08-13,2025-08-12,Concepcion Pequeña,35,Young_Adult,Male,Probable,Yes,Recovered,233.7,26192
+NGD00709,2025-08-16,2025-08-08,Concepcion Pequeña,39,Adult,Female,Confirmed,No,Recovered,164.5,26192
+NGD00710,2025-08-19,2025-08-16,Concepcion Pequeña,29,Young_Adult,Male,Confirmed,No,Recovered,168.1,26192
+NGD00711,2025-08-20,2025-08-18,Concepcion Pequeña,18,Young_Adult,Female,Confirmed,Yes,Recovered,102,26192
+NGD00712,2025-08-17,2025-08-10,Concepcion Pequeña,32,Young_Adult,Female,Confirmed,Yes,Recovered,104.2,26192
+NGD00713,2025-08-20,2025-08-19,Concepcion Pequeña,15,Minor,Female,Confirmed,No,Recovered,186.2,26192
+NGD00714,2025-08-18,2025-08-17,Dayangdang,30,Young_Adult,Male,Confirmed,Yes,Recovered,Unclassified,3538
+NGD00715,2025-08-17,2025-08-10,Dayangdang,42,Adult,Female,Probable,No,Recovered,35,3538
+NGD00716,2025-08-12,2025-08-10,Del Rosario,22,Young_Adult,Male,Confirmed,No,Recovered,Unclassified,10253
+NGD00717,2025-08-28,2025-08-26,Del Rosario,8,Minor,Male,Confirmed,No,Recovered,182.1,10253
+NGD00718,2025-08-01,2025-07-31,Del Rosario,7,Minor,Female,Confirmed,Yes,Recovered,177.5,10253
+NGD00719,2025-08-26,2025-08-20,Del Rosario,12,Minor,Male,Confirmed,Yes,Recovered,260.5,10253
+NGD00720,2025-08-09,2025-08-04,Del Rosario,41,Adult,Male,Confirmed,No,Ongoing,248.4,10253
+NGD00721,2025-08-13,2025-08-09,Del Rosario,24,Young_Adult,Male,Confirmed,No,Recovered,177.1,10253
+NGD00722,2025-08-18,2025-08-10,Del Rosario,46,Adult,Male,Probable,No,Recovered,166.9,10253
+NGD00723,2025-08-13,2025-08-10,Igualdad Interior,51,Adult,Female,Suspected,No,Recovered,164.8,2814
+NGD00724,2025-08-06,2025-08-04,Igualdad Interior,39,Adult,Female,Confirmed,No,Recovered,146.6,2814
+NGD00725,2025-08-20,2025-08-19,Igualdad Interior,25,Young_Adult,Female,Confirmed,No,Recovered,163.8,2814
+NGD00726,2025-08-27,2025-08-24,Lerma,49,Adult,Male,Probable,No,Recovered,111,1430
+NGD00727,2025-08-08,2025-08-02,Lerma,6,Minor,Female,Confirmed,No,Recovered,146.7,1430
+NGD00728,2025-08-13,2025-08-08,Liboton,3,Minor,Female,Probable,No,Recovered,168.5,2906
+NGD00729,2025-08-15,2025-08-14,Liboton,71,Senior,Female,Suspected,No,Recovered,212.9,2906
+NGD00730,2025-08-07,2025-08-06,Liboton,34,Young_Adult,Female,Confirmed,No,Recovered,256.8,2906
+NGD00731,2025-08-21,2025-08-20,Mabolo,29,Young_Adult,Female,Confirmed,Yes,Recovered,199.6,8408
+NGD00732,2025-08-22,2025-08-15,Mabolo,26,Young_Adult,Male,Confirmed,No,Recovered,273.5,8408
+NGD00733,2025-08-03,2025-08-01,Mabolo,42,Adult,Male,Suspected,No,Recovered,282.6,8408
+NGD00734,2025-08-12,2025-08-07,Mabolo,43,Adult,Female,Confirmed,Yes,Recovered,279.5,8408
+NGD00735,2025-08-19,2025-08-18,Mabolo,19,Young_Adult,Male,Confirmed,No,Recovered,145.3,8408
+NGD00736,2025-08-17,2025-08-12,Mabolo,10,Minor,Male,Probable,No,Recovered,Unclassified,8408
+NGD00737,2025-08-29,2025-08-24,Mabolo,7,Minor,Male,Probable,No,Recovered,104.5,8408
+NGD00738,2025-08-25,2025-08-19,Mabolo,23,Young_Adult,Male,Suspected,No,Recovered,130.1,8408
+NGD00739,2025-08-16,2025-08-14,Pacol,54,Adult,Male,Confirmed,No,Ongoing,231,15881
+NGD00740,2025-08-22,2025-08-18,Pacol,9,Minor,Male,Confirmed,Yes,Recovered,189.5,15881
+NGD00741,2025-08-23,2025-08-18,Pacol,32,Young_Adult,Female,Confirmed,No,Recovered,135,15881
+NGD00742,2025-08-11,2025-08-09,Pacol,14,Minor,Female,Confirmed,Yes,Recovered,205.5,15881
+NGD00743,2025-08-09,2025-08-06,Pacol,7,Minor,Female,Confirmed,Yes,Recovered,237.4,15881
+NGD00744,2025-08-28,2025-08-23,Pacol,31,Young_Adult,Female,Confirmed,No,Recovered,141.7,15881
+NGD00745,2025-08-12,2025-08-09,Pacol,32,Young_Adult,Female,Confirmed,Yes,Recovered,127.8,15881
+NGD00746,2025-08-16,2025-08-15,Pacol,51,Adult,Female,Suspected,Yes,Recovered,199.2,15881
+NGD00747,2025-08-29,2025-08-24,Pacol,6,Minor,Male,Confirmed,No,Recovered,112.1,15881
+NGD00748,2025-08-13,2025-08-09,Pacol,45,Adult,Female,Confirmed,No,Recovered,161.9,15881
+NGD00749,2025-08-18,2025-08-17,Pacol,35,Young_Adult,Male,Confirmed,No,Recovered,154.2,15881
+NGD00750,2025-08-04,2025-07-27,Pacol,33,Young_Adult,Male,Suspected,Yes,Recovered,221.6,15881
+NGD00751,2025-08-19,2025-08-17,Pacol,33,Young_Adult,Male,Confirmed,No,Recovered,174.6,15881
+NGD00752,2025-08-09,2025-08-05,Pacol,15,Minor,Male,Confirmed,No,Recovered,177.8,15881
+NGD00753,2025-08-16,2025-08-09,Pacol,20,Young_Adult,Female,Confirmed,No,Recovered,80.3,15881
+NGD00754,2025-08-13,2025-08-08,Pacol,33,Young_Adult,Male,Confirmed,Yes,Recovered,214.2,15881
+NGD00755,2025-08-08,2025-08-06,Pacol,49,Adult,Male,Suspected,No,Recovered,238.9,15881
+NGD00756,2025-08-07,2025-08-04,Panicuason,68,Senior,Female,Confirmed,Yes,Recovered,105.5,3224
+NGD00757,2025-08-05,2025-07-30,Panicuason,15,Minor,Male,Confirmed,No,Recovered,200.2,3224
+NGD00758,2025-08-13,2025-08-11,Panicuason,3,Minor,Female,Confirmed,No,Recovered,241.5,3224
+NGD00759,2025-08-21,2025-08-19,Panicuason,31,Young_Adult,Male,Suspected,Yes,Recovered,147.4,3224
+NGD00760,2025-08-18,2025-08-13,Panicuason,24,Young_Adult,Male,Confirmed,Yes,Recovered,245.4,3224
+NGD00761,2025-08-31,2025-08-27,Panicuason,45,Adult,Female,Probable,Yes,Recovered,287.9,3224
+NGD00762,2025-08-17,2025-08-09,Peñafrancia,22,Young_Adult,Male,Suspected,No,Recovered,113.7,4219
+NGD00763,2025-08-21,2025-08-18,Peñafrancia,28,Young_Adult,Female,Confirmed,No,Recovered,289.3,4219
+NGD00764,2025-08-20,2025-08-13,Peñafrancia,15,Minor,Female,Confirmed,Yes,Recovered,208.8,4219
+NGD00765,2025-08-21,2025-08-16,Sabang,49,Adult,Male,Confirmed,No,Recovered,201.2,6274
+NGD00766,2025-08-25,2025-08-19,Sabang,19,Young_Adult,Male,Confirmed,Yes,Recovered,84.4,6274
+NGD00767,2025-08-24,2025-08-20,Sabang,43,Adult,Male,Probable,No,Recovered,175.9,6274
+NGD00768,2025-08-06,2025-07-30,Sabang,16,Minor,Female,Confirmed,No,Recovered,231.2,6274
+NGD00769,2025-08-02,2025-08-01,Sabang,26,Young_Adult,Male,Confirmed,No,Recovered,117.8,6274
+NGD00770,2025-08-20,2025-08-17,Sabang,33,Young_Adult,Female,Confirmed,No,Recovered,170.8,6274
+NGD00771,2025-08-08,2025-08-03,Sabang,26,Young_Adult,Male,Confirmed,Yes,Recovered,229.2,6274
+NGD00772,2025-08-01,2025-07-31,San Felipe,14,Minor,Male,Suspected,Yes,Recovered,245.6,22432
+NGD00773,2025-08-28,2025-08-23,San Felipe,20,Young_Adult,Male,Confirmed,No,Recovered,151.6,22432
+NGD00774,2025-08-19,2025-08-11,San Felipe,19,Young_Adult,Male,Confirmed,No,Recovered,198.9,22432
+NGD00775,2025-08-12,2025-08-04,San Felipe,27,Young_Adult,Female,Suspected,No,Recovered,168.7,22432
+NGD00776,2025-08-09,2025-08-06,San Felipe,13,Minor,Male,Confirmed,No,Recovered,143.7,22432
+NGD00777,2025-08-05,2025-07-30,San Felipe,13,Minor,Male,Confirmed,Yes,Recovered,153,22432
+NGD00778,2025-08-31,2025-08-23,San Felipe,18,Young_Adult,Male,Confirmed,No,Recovered,86.4,22432
+NGD00779,2025-08-08,2025-08-07,San Felipe,16,Minor,Male,Confirmed,No,Recovered,113.8,22432
+NGD00780,2025-08-08,2025-08-05,San Felipe,10,Minor,Male,Suspected,Yes,Recovered,159,22432
+NGD00781,2025-08-21,2025-08-17,San Felipe,15,Minor,Male,Confirmed,No,Recovered,154.9,22432
+NGD00782,2025-08-14,2025-08-10,San Felipe,25,Young_Adult,Female,Confirmed,Yes,Recovered,159.1,22432
+NGD00783,2025-08-20,2025-08-12,San Felipe,28,Young_Adult,Male,Suspected,No,Recovered,178.3,22432
+NGD00784,2025-08-05,2025-08-04,San Felipe,12,Minor,Female,Confirmed,Yes,Recovered,254.4,22432
+NGD00785,2025-08-23,2025-08-15,San Felipe,27,Young_Adult,Female,Confirmed,Yes,Recovered,190.1,22432
+NGD00786,2025-08-11,2025-08-04,San Felipe,89,Senior,Male,Suspected,No,Recovered,101.5,22432
+NGD00787,2025-08-23,2025-08-22,San Felipe,36,Adult,Male,Confirmed,No,Recovered,175.6,22432
+NGD00788,2025-08-09,2025-08-02,San Felipe,12,Minor,Female,Confirmed,Yes,Recovered,114.8,22432
+NGD00789,2025-08-09,2025-08-02,San Felipe,2,Minor,Female,Confirmed,No,Recovered,280.8,22432
+NGD00790,2025-08-25,2025-08-17,San Felipe,37,Adult,Female,Suspected,Yes,Recovered,157.2,22432
+NGD00791,2025-08-25,2025-08-23,San Felipe,37,Adult,Female,Confirmed,No,Recovered,164.7,22432
+NGD00792,2025-08-11,2025-08-08,San Felipe,37,Adult,Female,Suspected,No,Recovered,273.6,22432
+NGD00793,2025-08-16,2025-08-11,San Felipe,21,Young_Adult,Female,Confirmed,Yes,Recovered,248.6,22432
+NGD00794,2025-08-04,2025-07-31,San Felipe,21,Young_Adult,Male,Confirmed,Yes,Recovered,165,22432
+NGD00795,2025-08-04,2025-07-28,San Felipe,42,Adult,Female,Confirmed,Yes,Recovered,Unclassified,22432
+NGD00796,2025-08-16,2025-08-13,San Felipe,18,Young_Adult,Male,Suspected,Yes,Recovered,194.4,22432
+NGD00797,2025-08-22,2025-08-16,San Felipe,8,Minor,Female,Confirmed,No,Recovered,302,22432
+NGD00798,2025-08-26,2025-08-24,San Felipe,20,Young_Adult,Female,Confirmed,Yes,Recovered,64.7,22432
+NGD00799,2025-08-21,2025-08-15,San Felipe,38,Adult,Male,Suspected,Yes,Recovered,191.9,22432
+NGD00800,2025-08-24,2025-08-21,San Felipe,9,Minor,Male,Suspected,No,Recovered,130,22432
+NGD00801,2025-08-10,2025-08-02,San Felipe,13,Minor,Female,Confirmed,No,Recovered,149.8,22432
+NGD00802,2025-08-15,2025-08-10,San Felipe,37,Adult,Female,Confirmed,Yes,Recovered,183.7,22432
+NGD00803,2025-08-09,2025-08-03,San Felipe,30,Young_Adult,Male,Confirmed,No,Recovered,247,22432
+NGD00804,2025-08-06,2025-08-05,San Felipe,15,Minor,Male,Suspected,Yes,Recovered,186.4,22432
+NGD00805,2025-08-22,2025-08-15,San Francisco,12,Minor,Female,Confirmed,No,Recovered,142.5,663
+NGD00806,2025-08-20,2025-08-15,San Francisco,13,Minor,Male,Confirmed,Yes,Recovered,133.9,663
+NGD00807,2025-08-22,2025-08-20,Santa Cruz,11,Minor,Female,Suspected,Yes,Recovered,178.3,6397
+NGD00808,2025-08-07,2025-08-05,Santa Cruz,11,Minor,Male,Confirmed,Yes,Recovered,143.9,6397
+NGD00809,2025-08-13,2025-08-05,Santa Cruz,13,Minor,Male,Confirmed,Yes,Recovered,56.9,6397
+NGD00810,2025-08-01,2025-07-28,Santa Cruz,3,Minor,Male,Probable,No,Recovered,177.5,6397
+NGD00811,2025-08-21,2025-08-20,Santa Cruz,8,Minor,Male,Confirmed,No,Recovered,151.1,6397
+NGD00812,2025-08-12,2025-08-11,Tabuco,50,Adult,Male,Confirmed,No,Recovered,187.8,3825
+NGD00813,2025-08-03,2025-07-30,Tabuco,3,Minor,Female,Confirmed,Yes,Recovered,181.2,3825
+NGD00814,2025-08-07,2025-08-03,Tinago,38,Adult,Female,Confirmed,No,Recovered,65.4,2386
+NGD00815,2025-08-25,2025-08-19,Triangulo,59,Adult,Male,Suspected,No,Recovered,148.7,7933
+NGD00816,2025-08-26,2025-08-23,Triangulo,27,Young_Adult,Male,Confirmed,No,Recovered,135.2,7933
+NGD00817,2025-09-20,2025-09-12,Abella,15,Minor,Male,Probable,No,Ongoing,221.5,5401
+NGD00818,2025-09-28,2025-09-22,Abella,9,Minor,Male,Suspected,No,Recovered,170.3,5401
+NGD00819,2025-09-20,2025-09-16,Abella,34,Young_Adult,Female,Confirmed,No,Recovered,264.4,5401
+NGD00820,2025-09-12,2025-09-04,Abella,24,Young_Adult,Male,Probable,Yes,Recovered,169.3,5401
+NGD00821,2025-09-10,2025-09-09,Bagumbayan Norte,21,Young_Adult,Female,Probable,Yes,Recovered,115.5,2024
+NGD00822,2025-09-08,2025-09-04,Bagumbayan Norte,44,Adult,Male,Confirmed,No,Recovered,131.1,2024
+NGD00823,2025-09-09,2025-09-06,Bagumbayan Norte,40,Adult,Female,Confirmed,Yes,Recovered,234.5,2024
+NGD00824,2025-09-12,2025-09-08,Bagumbayan Sur,42,Adult,Female,Confirmed,Yes,Recovered,134.9,7366
+NGD00825,2025-09-19,2025-09-15,Bagumbayan Sur,8,Minor,Female,Suspected,No,Recovered,215.2,7366
+NGD00826,2025-09-27,2025-09-25,Bagumbayan Sur,19,Young_Adult,female,Confirmed,No,Recovered,119.8,7366
+NGD00827,2025-09-25,2025-09-24,Bagumbayan Sur,27,Young_Adult,Male,Confirmed,No,Recovered,184.7,7366
+NGD00828,2025-09-28,2025-09-26,Balatas,0,Minor,Female,Suspected,No,Recovered,127.8,11265
+NGD00829,2025-09-21,2025-09-14,Balatas,60,Senior,Female,Confirmed,Yes,Recovered,165.1,11265
+NGD00830,2025-09-05,2025-08-30,Balatas,32,Young_Adult,Female,Confirmed,No,Ongoing,134.7,11265
+NGD00831,2025-09-15,2025-09-13,Balatas,14,Minor,Female,Confirmed,No,Recovered,134,11265
+NGD00832,2025-09-11,2025-09-09,Balatas,4,Minor,Male,Confirmed,Yes,Recovered,199.4,11265
+NGD00833,2025-09-03,2025-08-27,Balatas,15,Minor,Male,Suspected,Yes,Recovered,176.6,11265
+NGD00834,2025-09-18,2025-09-14,Balatas,4,Minor,Male,Confirmed,No,Recovered,104.7,11265
+NGD00835,2025-09-24,2025-09-20,Balatas,67,Senior,Female,Confirmed,No,Recovered,186.8,11265
+NGD00836,2025-09-30,2025-09-28,Balatas,10,Minor,Female,Unclassified,No,Recovered,249.5,11265
+NGD00837,2025-09-11,2025-09-05,Balatas,12,Minor,Female,Suspected,Yes,Recovered,285,11265
+NGD00838,2025-09-27,2025-09-19,Calauag,37,Adult,Female,Confirmed,No,Recovered,123.5,10738
+NGD00839,2025-09-22,2025-09-16,Calauag,21,Young_Adult,Female,Suspected,No,Recovered,263.4,10738
+NGD00840,2025-09-02,2025-08-29,Calauag,32,Young_Adult,Female,Suspected,No,Recovered,203.3,10738
+NGD00841,2025-09-23,2025-09-21,Calauag,70,Senior,Male,Confirmed,Yes,Recovered,194.2,10738
+NGD00842,2025-09-18,2025-09-14,Calauag,8,Minor,Female,Confirmed,No,Recovered,176.4,10738
+NGD00843,2025-09-20,2025-09-17,Calauag,30,Young_Adult,Female,Confirmed,No,Recovered,157.3,10738
+NGD00844,2025-09-09,2025-09-06,Cararayan,64,Senior,Female,Confirmed,No,Recovered,77.4,22596
+NGD00845,2025-09-02,2025-08-25,Cararayan,41,Adult,Female,Confirmed,No,Recovered,174.9,22596
+NGD00846,2025-09-30,2025-09-24,Cararayan,49,Adult,Female,Confirmed,No,Recovered,243.4,22596
+NGD00847,2025-09-08,2025-09-01,Cararayan,15,Minor,Female,Probable,No,Recovered,96.4,22596
+NGD00848,2025-09-03,2025-08-31,Cararayan,15,Minor,Female,Confirmed,No,Recovered,108.4,22596
+NGD00849,2025-09-01,2025-08-31,Cararayan,17,Minor,Female,Probable,Yes,Recovered,243.5,22596
+NGD00850,2025-09-24,2025-09-21,Cararayan,29,Young_Adult,Female,Confirmed,Yes,Recovered,169.7,22596
+NGD00851,2025-09-08,2025-09-03,Cararayan,25,Young_Adult,Female,Confirmed,No,Recovered,204.7,22596
+NGD00852,2025-09-27,2025-09-26,Cararayan,22,Young_Adult,Male,Confirmed,Yes,Recovered,151.7,22596
+NGD00853,2025-09-05,2025-09-03,Cararayan,30,Young_Adult,Male,Confirmed,No,Recovered,126,22596
+NGD00854,2025-09-22,2025-09-18,Cararayan,59,Adult,Male,Confirmed,Yes,Ongoing,207.4,22596
+NGD00855,2025-09-30,2025-09-24,Cararayan,11,Minor,Male,Confirmed,Yes,Recovered,168.6,22596
+NGD00856,2025-09-18,2025-09-14,Cararayan,25,Young_Adult,Female,Confirmed,No,Recovered,206.8,22596
+NGD00857,2025-09-05,2025-08-29,Cararayan,35,Young_Adult,Female,Confirmed,No,Recovered,67.3,22596
+NGD00858,2025-09-03,2025-09-01,Carolina,10,Minor,Female,Confirmed,No,Recovered,81.7,7539
+NGD00859,2025-09-25,2025-09-19,Carolina,15,Minor,Male,Probable,Yes,Recovered,191.2,7539
+NGD00860,2025-09-27,2025-09-22,Carolina,17,Minor,Female,Suspected,Yes,Recovered,160.8,7539
+NGD00861,2025-09-25,2025-09-20,Carolina,21,Young_Adult,Female,Confirmed,Yes,Recovered,150.9,7539
+NGD00862,2025-09-03,2025-08-26,Carolina,25,Young_Adult,Female,Confirmed,No,Recovered,236,7539
+NGD00863,2025-09-12,2025-09-09,Concepcion Grande,13,Minor,Male,Confirmed,Yes,Recovered,280,10804
+NGD00864,2025-09-02,2025-08-26,Concepcion Grande,18,Young_Adult,female,Probable,No,Recovered,195.1,10804
+NGD00865,2025-09-22,2025-09-18,Concepcion Grande,45,Adult,Female,Confirmed,No,Ongoing,187.7,10804
+NGD00866,2025-09-28,2025-09-20,Concepcion Grande,35,Young_Adult,Male,Suspected,No,Recovered,168.3,10804
+NGD00867,2025-09-25,2025-09-24,Concepcion Grande,21,Young_Adult,Male,Suspected,No,Recovered,247,10804
+NGD00868,2025-09-19,2025-09-18,Concepcion Grande,34,Young_Adult,Female,Confirmed,No,Recovered,82.9,10804
+NGD00869,2025-09-08,2025-09-01,Concepcion Grande,21,Young_Adult,Female,Confirmed,No,Recovered,203.1,10804
+NGD00870,2025-09-02,2025-08-29,Concepcion Grande,48,Adult,Male,Confirmed,No,Recovered,115.2,10804
+NGD00871,2025-09-10,2025-09-02,Concepcion Grande,20,Young_Adult,Female,Confirmed,No,Recovered,211.9,10804
+NGD00872,2025-09-17,2025-09-14,Concepcion Grande,23,Young_Adult,Male,Suspected,No,Recovered,161.5,10804
+NGD00873,2025-09-04,2025-09-01,Concepcion Grande,13,Minor,Female,Confirmed,Yes,Recovered,199.9,10804
+NGD00874,2025-09-15,2025-09-11,Concepcion Pequeña,13,Minor,Male,Confirmed,Yes,Recovered,123.4,26192
+NGD00875,2025-09-23,2025-09-20,Concepcion Pequeña,9,Minor,Female,Confirmed,No,Recovered,164.4,26192
+NGD00876,2025-09-03,2025-08-27,Concepcion Pequeña,53,Adult,Female,Confirmed,No,Recovered,153.8,26192
+NGD00877,2025-09-30,2025-09-24,Concepcion Pequeña,19,Young_Adult,Female,Confirmed,Yes,Recovered,138.4,26192
+NGD00878,2025-09-02,2025-08-26,Concepcion Pequeña,9,Minor,Male,Confirmed,No,Recovered,198.9,26192
+NGD00879,2025-09-21,2025-09-18,Concepcion Pequeña,30,Young_Adult,Female,Suspected,No,Recovered,160.3,26192
+NGD00880,2025-09-25,2025-09-20,Concepcion Pequeña,14,Minor,Female,Confirmed,No,Recovered,174.2,26192
+NGD00881,2025-09-01,2025-08-24,Concepcion Pequeña,4,Minor,Female,Confirmed,No,Recovered,252.5,26192
+NGD00882,2025-09-15,2025-09-13,Concepcion Pequeña,20,Young_Adult,Female,Confirmed,No,Recovered,181.7,26192
+NGD00883,2025-09-18,2025-09-14,Concepcion Pequeña,21,Young_Adult,Female,Confirmed,Yes,Recovered,177.9,26192
+NGD00884,2025-09-05,2025-09-04,Concepcion Pequeña,28,Young_Adult,Male,Confirmed,Yes,Recovered,175.9,26192
+NGD00885,2025-09-06,2025-09-03,Concepcion Pequeña,40,Adult,Male,Confirmed,No,Recovered,123.8,26192
+NGD00886,2025-09-26,2025-09-23,Concepcion Pequeña,19,Young_Adult,Male,Suspected,Yes,Recovered,222.9,26192
+NGD00887,2025-09-25,2025-09-20,Concepcion Pequeña,21,Young_Adult,Male,Confirmed,Yes,Recovered,146.8,26192
+NGD00888,2025-09-14,2025-09-12,Concepcion Pequeña,14,Minor,Male,Confirmed,Yes,Recovered,216,26192
+NGD00889,2025-09-11,2025-09-04,Concepcion Pequeña,21,Young_Adult,Female,Suspected,No,Recovered,130.7,26192
+NGD00890,2025-09-24,2025-09-22,Concepcion Pequeña,34,Young_Adult,Male,Suspected,No,Recovered,137.4,26192
+NGD00891,2025-09-23,2025-09-18,Concepcion Pequeña,1,Minor,Male,Confirmed,Yes,Recovered,159.4,26192
+NGD00892,2025-09-20,2025-09-14,Concepcion Pequeña,34,Young_Adult,Female,Confirmed,No,Recovered,49.6,26192
+NGD00893,2025-09-16,2025-09-08,Dayangdang,16,Minor,Female,Suspected,Yes,Recovered,141.8,3538
+NGD00894,2025-09-07,2025-09-06,Dayangdang,59,Adult,Female,Confirmed,No,Recovered,132.4,3538
+NGD00895,2025-09-28,2025-09-24,Dayangdang,21,Young_Adult,Male,Confirmed,Yes,Recovered,157.1,3538
+NGD00896,2025-09-21,2025-09-17,Del Rosario,36,Adult,Female,Confirmed,No,Recovered,117,10253
+NGD00897,2025-09-03,2025-08-29,Del Rosario,40,Adult,Male,Confirmed,Yes,Recovered,208.7,10253
+NGD00898,2025-09-22,2025-09-16,Del Rosario,30,Young_Adult,Male,Confirmed,No,Recovered,141.7,10253
+NGD00899,2025-09-27,2025-09-24,Del Rosario,9,Minor,Female,Confirmed,Yes,Recovered,229.2,10253
+NGD00900,2025-09-30,2025-09-22,Del Rosario,33,Young_Adult,Female,Confirmed,No,Recovered,241.3,10253
+NGD00901,2025-09-29,2025-09-23,Del Rosario,17,Minor,Male,Suspected,No,Recovered,219.2,10253
+NGD00902,2025-09-27,2025-09-22,Del Rosario,8,Minor,Male,Confirmed,Yes,Recovered,277.2,10253
+NGD00903,2025-09-11,2025-09-05,Igualdad Interior,25,Young_Adult,Female,Probable,Yes,Recovered,203.4,2814
+NGD00904,2025-09-13,2025-09-10,Igualdad Interior,52,Adult,Male,Confirmed,Yes,Recovered,196.2,2814
+NGD00905,2025-09-10,2025-09-04,Lerma,11,Minor,Female,Confirmed,Yes,Recovered,142.8,1430
+NGD00906,2025-09-12,2025-09-04,Liboton,39,Adult,Male,Confirmed,Yes,Recovered,204.8,2906
+NGD00907,2025-09-26,2025-09-25,Liboton,39,Adult,Female,Probable,No,Recovered,272.9,2906
+NGD00908,2025-09-16,2025-09-13,Mabolo,50,Adult,Female,Confirmed,No,Recovered,218.2,8408
+NGD00909,2025-09-10,2025-09-04,Mabolo,42,Adult,Female,Suspected,Yes,Ongoing,197.9,8408
+NGD00910,2025-09-17,2025-09-14,Mabolo,12,Minor,Female,Suspected,No,Recovered,248.7,8408
+NGD00911,2025-09-17,2025-09-15,Mabolo,19,Young_Adult,Female,Confirmed,Yes,Recovered,209.3,8408
+NGD00912,2025-09-28,2025-09-26,Mabolo,10,Minor,Male,Confirmed,Yes,Recovered,285.1,8408
+NGD00913,2025-09-22,2025-09-17,Mabolo,15,Minor,Female,Confirmed,Yes,Recovered,132.1,8408
+NGD00914,2025-09-11,2025-09-07,Mabolo,25,Young_Adult,Female,Confirmed,No,Recovered,231.6,8408
+NGD00915,2025-09-22,2025-09-20,Pacol,25,Young_Adult,Male,Confirmed,Yes,Recovered,136.1,15881
+NGD00916,2025-09-20,2025-09-18,Pacol,20,Young_Adult,Female,Confirmed,No,Recovered,222.5,15881
+NGD00917,2025-09-23,2025-09-18,Pacol,10,Minor,Female,Confirmed,Yes,Recovered,237,15881
+NGD00918,2025-09-18,2025-09-10,Pacol,33,Young_Adult,Female,Confirmed,No,Recovered,196.4,15881
+NGD00919,2025-09-04,2025-08-28,Pacol,45,Adult,Female,Confirmed,No,Recovered,243.8,15881
+NGD00920,2025-09-29,2025-09-21,Pacol,11,Minor,Male,Confirmed,No,Recovered,140.8,15881
+NGD00921,2025-09-22,2025-09-20,Pacol,46,Adult,Male,Confirmed,Yes,Recovered,275.4,15881
+NGD00922,2025-09-23,2025-09-15,Pacol,11,Minor,Female,Confirmed,No,Recovered,244.5,15881
+NGD00923,2025-09-15,2025-09-07,Pacol,4,Minor,Female,Probable,Yes,Recovered,219,15881
+NGD00924,2025-09-09,2025-09-03,Pacol,26,Young_Adult,Male,Confirmed,No,Recovered,215.6,15881
+NGD00925,2025-09-28,2025-09-22,Pacol,54,Adult,Male,Confirmed,Yes,Recovered,143.9,15881
+NGD00926,2025-09-16,2025-09-08,Pacol,11,Minor,Female,Confirmed,Yes,Recovered,254.5,15881
+NGD00927,2025-09-17,2025-09-15,Peñafrancia,3,Minor,Male,Suspected,No,Recovered,228.2,4219
+NGD00928,2025-09-21,2025-09-19,Peñafrancia,7,Minor,Male,Confirmed,No,Recovered,147.3,4219
+NGD00929,2025-09-20,2025-09-16,Peñafrancia,14,Minor,Female,Probable,No,Recovered,164.2,4219
+NGD00930,2025-09-27,2025-09-20,Peñafrancia,22,Young_Adult,Male,Confirmed,Yes,Recovered,195.1,4219
+NGD00931,2025-09-06,2025-09-04,Peñafrancia,47,Adult,Male,Confirmed,No,Recovered,198.6,4219
+NGD00932,2025-09-04,2025-08-27,Sabang,12,Minor,Female,Confirmed,No,Recovered,158,6274
+NGD00933,2025-09-22,2025-09-15,Sabang,26,Young_Adult,Male,Confirmed,No,Recovered,123.6,6274
+NGD00934,2025-09-27,2025-09-24,Sabang,42,Adult,Female,Suspected,No,Recovered,225.1,6274
+NGD00935,2025-09-10,2025-09-03,San Felipe,9,Minor,Male,Confirmed,No,Recovered,204.7,22432
+NGD00936,2025-09-19,2025-09-14,San Felipe,16,Minor,Male,Suspected,No,Ongoing,84.4,22432
+NGD00937,2025-09-19,2025-09-18,San Felipe,17,Minor,Male,Suspected,No,Recovered,202.9,22432
+NGD00938,2025-09-29,2025-09-28,San Felipe,86,Senior,Female,Suspected,No,Recovered,144.7,22432
+NGD00939,2025-09-28,2025-09-23,San Felipe,25,Young_Adult,Female,Confirmed,No,Recovered,130.3,22432
+NGD00940,2025-09-11,2025-09-04,San Felipe,34,Young_Adult,Male,Confirmed,No,Recovered,110.1,22432
+NGD00941,2025-09-16,2025-09-13,San Felipe,22,Young_Adult,Female,Confirmed,No,Recovered,147.6,22432
+NGD00942,2025-09-14,2025-09-11,San Felipe,12,Minor,Male,Probable,No,Recovered,120.6,22432
+NGD00943,2025-09-03,2025-09-02,San Felipe,56,Adult,Female,Suspected,No,Recovered,211.6,22432
+NGD00944,2025-09-05,2025-09-03,San Felipe,15,Minor,Female,Confirmed,No,Recovered,299,22432
+NGD00945,2025-09-26,2025-09-19,San Felipe,31,Young_Adult,Female,Confirmed,No,Recovered,278.8,22432
+NGD00946,2025-09-13,2025-09-07,San Felipe,17,Minor,Female,Confirmed,No,Recovered,171.4,22432
+NGD00947,2025-09-28,2025-09-24,San Felipe,10,Minor,Male,Confirmed,No,Recovered,247.7,22432
+NGD00948,2025-09-02,2025-08-25,San Felipe,51,Adult,Male,Confirmed,No,Recovered,148.2,22432
+NGD00949,2025-09-05,2025-08-31,San Felipe,34,Young_Adult,Male,Confirmed,No,Recovered,172.5,22432
+NGD00950,2025-09-08,2025-08-31,San Felipe,26,Young_Adult,Female,Suspected,No,Recovered,126.2,22432
+NGD00951,2025-09-20,2025-09-19,San Felipe,14,Minor,Male,Confirmed,Yes,Recovered,170.9,22432
+NGD00952,2025-09-29,2025-09-21,San Felipe,8,Minor,Male,Confirmed,No,Recovered,181.2,22432
+NGD00953,2025-09-10,2025-09-07,San Felipe,9,Minor,Female,Suspected,No,Recovered,87.2,22432
+NGD00954,2025-09-26,2025-09-21,San Felipe,19,Young_Adult,Female,Confirmed,No,Recovered,232.8,22432
+NGD00955,2025-09-22,2025-09-17,San Felipe,13,Minor,Female,Confirmed,Yes,Recovered,287.4,22432
+NGD00956,2025-09-28,2025-09-23,San Felipe,25,Young_Adult,Male,Confirmed,Yes,Recovered,208.1,22432
+NGD00957,2025-09-01,2025-08-30,San Felipe,21,Young_Adult,Female,Probable,No,Recovered,114.3,22432
+NGD00958,2025-09-12,2025-09-09,San Isidro,18,Young_Adult,Male,Suspected,Yes,Recovered,127,3789
+NGD00959,2025-09-17,2025-09-16,Santa Cruz,73,Senior,Male,Probable,No,Recovered,245.5,6397
+NGD00960,2025-09-27,2025-09-24,Santa Cruz,4,Minor,Male,Suspected,No,Recovered,230.6,6397
+NGD00961,2025-09-22,2025-09-14,Tabuco,38,Adult,Female,Confirmed,No,Recovered,187.6,3825
+NGD00962,2025-09-21,2025-09-16,Tinago,19,Young_Adult,Female,Confirmed,No,Recovered,116.8,2386
+NGD00963,2025-09-16,2025-09-12,Triangulo,76,Senior,Male,Suspected,No,Recovered,157.8,7933
+NGD00964,2025-09-17,2025-09-10,Triangulo,13,Minor,Female,Confirmed,No,Recovered,229.4,7933
+NGD00965,2025-09-11,2025-09-10,Triangulo,29,Young_Adult,Female,Probable,No,Recovered,40.7,7933
+NGD00966,2025-09-14,2025-09-09,Triangulo,25,Young_Adult,Male,Confirmed,No,Recovered,206,7933
+NGD00967,2025-09-19,2025-09-12,Triangulo,13,Minor,Male,Suspected,No,Recovered,157.8,7933
+NGD00968,2025-10-19,2025-10-15,Abella,37,Adult,Male,Confirmed,No,Recovered,191.4,5401
+NGD00969,2025-10-01,2025-09-30,Abella,18,Young_Adult,Female,Confirmed,Yes,Recovered,100.3,5401
+NGD00970,2025-10-15,2025-10-09,Bagumbayan Norte,44,Adult,Female,Suspected,Yes,Recovered,149.2,2024
+NGD00971,2025-10-20,2025-10-18,Bagumbayan Norte,30,Young_Adult,Female,Probable,No,Recovered,240.6,2024
+NGD00972,2025-10-31,2025-10-29,Bagumbayan Sur,43,Adult,Female,Confirmed,No,Recovered,286.4,7366
+NGD00973,2025-10-25,2025-10-22,Bagumbayan Sur,24,Young_Adult,Female,Suspected,Yes,Recovered,146.2,7366
+NGD00974,2025-10-30,2025-10-28,Bagumbayan Sur,6,Minor,Male,Probable,Yes,Recovered,187.3,7366
+NGD00975,2025-10-29,2025-10-23,Bagumbayan Sur,21,Young_Adult,Male,Confirmed,Yes,Recovered,135.7,7366
+NGD00976,2025-10-13,2025-10-06,Bagumbayan Sur,15,Minor,Male,Probable,Yes,Recovered,149.9,7366
+NGD00977,2025-10-06,2025-09-28,Balatas,13,Minor, Female,Confirmed,No,Recovered,180.5,11265
+NGD00978,2025-10-06,2025-09-28,Balatas,58,Adult,Female,Confirmed,No,Recovered,284.4,11265
+NGD00979,2025-10-21,2025-10-19,Balatas,31,Young_Adult,Male,Suspected,Yes,Recovered,183.8,11265
+NGD00980,2025-10-19,2025-10-14,Balatas,25,Young_Adult,Male,Confirmed,No,Recovered,106.5,11265
+NGD00981,2025-10-01,2025-09-30,Balatas,16,Minor,Male,Confirmed,No,Recovered,225.2,11265
+NGD00982,2025-10-19,2025-10-18,Balatas,21,Young_Adult,Male,Confirmed,No,Recovered,175.6,11265
+NGD00983,2025-10-26,2025-10-24,Calauag,12,Minor,Female,Confirmed,No,Recovered,185.6,10738
+NGD00984,2025-10-16,2025-10-14,Calauag,44,Adult,Male,Confirmed,Yes,Recovered,256.2,10738
+NGD00985,2025-10-31,2025-10-29,Calauag,1,Minor,Male,Confirmed,No,Recovered,162.2,10738
+NGD00986,2025-10-15,2025-10-10,Calauag,10,Minor,Female,Confirmed,Yes,Recovered,151.7,10738
+NGD00987,2025-10-07,2025-10-02,Calauag,24,Young_Adult,Male,Suspected,No,Recovered,207.9,10738
+NGD00988,2025-10-03,2025-09-25,Calauag,11,Minor,Female,Confirmed,Yes,Recovered,92.1,10738
+NGD00989,2025-10-19,2025-10-15,Calauag,33,Young_Adult,Male,Confirmed,No,Recovered,237.2,10738
+NGD00990,2025-10-16,2025-10-08,Cararayan,20,Young_Adult,Female,Confirmed,Yes,Recovered,160.4,22596
+NGD00991,2025-10-02,2025-09-25,Cararayan,31,Young_Adult,Female,Confirmed,No,Recovered,160.8,22596
+NGD00992,2025-10-31,2025-10-28,Cararayan,15,Minor,Female,Probable,Yes,Recovered,104.5,22596
+NGD00993,2025-10-21,2025-10-20,Cararayan,14,Minor,Male,Probable,No,Recovered,239.3,22596
+NGD00994,2025-10-21,2025-10-18,Cararayan,59,Adult,Female,Confirmed,Yes,Recovered,83.9,22596
+NGD00995,2025-10-26,2025-10-24,Cararayan,28,Young_Adult,Male,Confirmed,No,Recovered,195.5,22596
+NGD00996,2025-10-27,2025-10-25,Cararayan,12,Minor,Female,Confirmed,No,Recovered,203.3,22596
+NGD00997,2025-10-26,2025-10-22,Cararayan,3,Minor,Male,Confirmed,No,Recovered,Unclassified,22596
+NGD00998,2025-10-13,2025-10-07,Cararayan,11,Minor,Female,Probable,No,Recovered,269.6,22596
+NGD00999,2025-10-27,2025-10-23,Cararayan,50,Adult,Female,Confirmed,Yes,Recovered,115.7,22596
+NGD01000,2025-10-05,2025-09-28,Cararayan,4,Minor,Female,Suspected,No,Recovered,122.2,22596
+NGD01001,2025-10-30,2025-10-29,Cararayan,9,Minor,Female,Confirmed,No,Recovered,194.5,22596
+NGD01002,2025-10-25,2025-10-22,Cararayan,71,Senior,Female,Suspected,Yes,Recovered,267.7,22596
+NGD01003,2025-10-30,2025-10-28,Cararayan,46,Adult,Male,Confirmed,No,Recovered,145.7,22596
+NGD01004,2025-10-23,2025-10-20,Carolina,17,Minor,Female,Confirmed,Yes,Recovered,146.3,7539
+NGD01005,2025-10-08,2025-10-05,Carolina,28,Young_Adult,Female,Confirmed,No,Recovered,318.1,7539
+NGD01006,2025-10-03,2025-09-28,Carolina,22,Young_Adult,Male,Confirmed,No,Recovered,167.5,7539
+NGD01007,2025-10-17,2025-10-15,Carolina,33,Young_Adult,Male,Suspected,No,Recovered,186.8,7539
+NGD01008,2025-10-15,2025-10-11,Carolina,11,Minor,Male,Confirmed,Yes,Recovered,176.6,7539
+NGD01009,2025-10-28,2025-10-20,Carolina,3,Minor,Male,Confirmed,Unclassified,Recovered,245.7,7539
+NGD01010,2025-10-21,2025-10-15,Concepcion Grande,26,Young_Adult,Male,Confirmed,Yes,Recovered,239.1,10804
+NGD01011,2025-10-29,2025-10-21,Concepcion Grande,47,Adult,Female,Confirmed,Yes,Recovered,201.5,10804
+NGD01012,2025-10-06,2025-10-05,Concepcion Pequeña,12,Minor,Male,Confirmed,Yes,Recovered,144.9,26192
+NGD01013,2025-10-15,2025-10-09,Concepcion Pequeña,31,Young_Adult,Male,Confirmed,No,Recovered,79.1,26192
+NGD01014,2025-10-25,2025-10-23,Concepcion Pequeña,65,Senior,Male,Confirmed,Yes,Recovered,112.7,26192
+NGD01015,2025-10-07,2025-09-30,Concepcion Pequeña,6,Minor,Female,Confirmed,No,Recovered,185.2,26192
+NGD01016,2025-10-14,2025-10-11,Concepcion Pequeña,46,Adult,Female,Probable,No,Recovered,158.2,26192
+NGD01017,2025-10-05,2025-09-27,Concepcion Pequeña,49,Adult,Female,Confirmed,No,Recovered,245,26192
+NGD01018,2025-10-05,2025-10-04,Concepcion Pequeña,78,Senior,Female,Confirmed,Yes,Recovered,98.6,26192
+NGD01019,2025-10-14,2025-10-11,Concepcion Pequeña,30,Young_Adult,Male,Confirmed,Yes,Recovered,190.9,26192
+NGD01020,2025-10-26,2025-10-23,Concepcion Pequeña,10,Minor,Female,Confirmed,No,Recovered,235.4,26192
+NGD01021,2025-10-07,2025-09-29,Concepcion Pequeña,18,Young_Adult,Male,Confirmed,No,Recovered,204.8,26192
+NGD01022,2025-10-08,2025-10-04,Concepcion Pequeña,69,Senior,Male,Confirmed,Yes,Recovered,180,26192
+NGD01023,2025-10-31,2025-10-28,Concepcion Pequeña,36,Adult,Female,Confirmed,Yes,Ongoing,223.2,26192
+NGD01024,2025-10-24,2025-10-23,Concepcion Pequeña,7,Minor,Male,Confirmed,No,Recovered,157.2,26192
+NGD01025,2025-10-27,2025-10-25,Concepcion Pequeña,32,Young_Adult,Male,Confirmed,Yes,Recovered,190.3,26192
+NGD01026,2025-10-23,2025-10-16,Concepcion Pequeña,34,Young_Adult,Female,Confirmed,Yes,Recovered,220.4,26192
+NGD01027,2025-10-03,2025-10-02,Concepcion Pequeña,21,Young_Adult,Male,Confirmed,Yes,Recovered,202.9,26192
+NGD01028,2025-10-19,2025-10-18,Concepcion Pequeña,45,Adult,Male,Confirmed,Yes,Recovered,229.2,26192
+NGD01029,2025-10-06,2025-09-30,Concepcion Pequeña,23,Young_Adult,Male,Suspected,Yes,Recovered,99.6,26192
+NGD01030,2025-10-13,2025-10-07,Concepcion Pequeña,64,Senior,Female,Confirmed,No,Recovered,127.9,26192
+NGD01031,2025-10-20,2025-10-16,Concepcion Pequeña,15,Minor,Female,Confirmed,Yes,Recovered,102,26192
+NGD01032,2025-10-17,2025-10-11,Concepcion Pequeña,32,Young_Adult,Female,Confirmed,Yes,Recovered,145.1,26192
+NGD01033,2025-10-12,2025-10-06,Dayangdang,17,Minor,Female,Confirmed,No,Recovered,200.4,3538
+NGD01034,2025-10-25,2025-10-21,Dayangdang,6,Minor,Female,Probable,Yes,Recovered,116.4,3538
+NGD01035,2025-10-16,2025-10-12,Del Rosario,36,Adult,Female,Confirmed,No,Recovered,156.3,10253
+NGD01036,2025-10-14,2025-10-09,Del Rosario,15,Minor,Female,Confirmed,Yes,Recovered,203.3,10253
+NGD01037,2025-10-17,2025-10-15,Del Rosario,24,Young_Adult,Male,Suspected,No,Recovered,200,10253
+NGD01038,2025-10-10,2025-10-02,Del Rosario,75,Senior,Male,Suspected,No,Recovered,180.5,10253
+NGD01039,2025-10-31,2025-10-29,Del Rosario,17,Minor,Female,Suspected,No,Recovered,140,10253
+NGD01040,2025-10-29,2025-10-26,Dinaga,20,Young_Adult,Male,Probable,Yes,Recovered,198.7,248
+NGD01041,2025-10-04,2025-10-01,Igualdad Interior,41,Adult,Male,Confirmed,Yes,Recovered,228,2814
+NGD01042,2025-10-01,2025-09-26,Igualdad Interior,32,Young_Adult,Male,Probable,No,Recovered,159.8,2814
+NGD01043,2025-10-12,2025-10-05,Igualdad Interior,23,Young_Adult,Male,Suspected,Yes,Recovered,171.7,2814
+NGD01044,2025-10-01,2025-09-27,Lerma,28,Young_Adult,Male,Confirmed,Yes,Recovered,161.6,1430
+NGD01045,2025-10-11,2025-10-03,Mabolo,30,Young_Adult,Male,Confirmed,No,Recovered,231.6,8408
+NGD01046,2025-10-10,2025-10-07,Mabolo,38,Adult,Male,Confirmed,Yes,Recovered,162.7,8408
+NGD01047,2025-10-28,2025-10-27,Mabolo,19,Young_Adult,Female,Confirmed,No,Recovered,129,8408
+NGD01048,2025-10-30,2025-10-27,Mabolo,42,Adult,Male,Confirmed,Yes,Recovered,259.9,8408
+NGD01049,2025-10-29,2025-10-26,Mabolo,41,Adult,Female,Confirmed,Yes,Recovered,139.9,8408
+NGD01050,2025-10-05,2025-09-27,Mabolo,29,Young_Adult,Male,Confirmed,Yes,Recovered,182.2,8408
+NGD01051,2025-10-22,2025-10-16,Mabolo,7,Minor,Male,Confirmed,No,Ongoing,111.1,8408
+NGD01052,2025-10-18,2025-10-13,Pacol,50,Adult,Female,Probable,No,Recovered,159,15881
+NGD01053,2025-10-05,2025-09-27,Pacol,31,Young_Adult,Male,Confirmed,No,Recovered,238.8,15881
+NGD01054,2025-10-17,2025-10-11,Pacol,5,Minor,Male,Confirmed,Yes,Recovered,164.3,15881
+NGD01055,2025-10-19,2025-10-16,Pacol,3,Minor,Male,Confirmed,Yes,Recovered,188,15881
+NGD01056,2025-10-02,2025-09-29,Pacol,22,Young_Adult,Female,Confirmed,No,Recovered,181.2,15881
+NGD01057,2025-10-15,2025-10-09,Pacol,16,Minor,Female,Confirmed,No,Recovered,171.2,15881
+NGD01058,2025-10-17,2025-10-13,Pacol,7,Minor,Male,Confirmed,Yes,Recovered,157.5,15881
+NGD01059,2025-10-22,2025-10-20,Pacol,13,Minor,Male,Confirmed,Yes,Recovered,208.7,15881
+NGD01060,2025-10-31,2025-10-30,Pacol,24,Young_Adult,Male,Confirmed,No,Recovered,164.1,15881
+NGD01061,2025-10-13,2025-10-07,Pacol,10,Minor,Female,Confirmed,Yes,Ongoing,170,15881
+NGD01062,2025-10-28,2025-10-26,Panicuason,52,Adult,Female,Suspected,No,Ongoing,224.4,3224
+NGD01063,2025-10-26,2025-10-18,Sabang,47,Adult,Male,Confirmed,No,Recovered,155.3,6274
+NGD01064,2025-10-24,2025-10-17,Sabang,65,Senior,Female,Suspected,No,Recovered,146.7,6274
+NGD01065,2025-10-10,2025-10-02,San Felipe,26,Young_Adult,Male,Confirmed,No,Recovered,181,22432
+NGD01066,2025-10-03,2025-10-02,San Felipe,27,Young_Adult,Male,Confirmed,Yes,Recovered,149.1,22432
+NGD01067,2025-10-15,2025-10-12,San Felipe,34,Young_Adult,Female,Confirmed,No,Recovered,149.6,22432
+NGD01068,2025-10-02,2025-09-27,San Felipe,10,Minor,Male,Confirmed,No,Recovered,136.6,22432
+NGD01069,2025-10-26,2025-10-25,San Felipe,5,Minor,Female,Confirmed,No,Recovered,205.9,22432
+NGD01070,2025-10-16,2025-10-14,San Felipe,39,Adult,Male,Confirmed,No,Recovered,163.4,22432
+NGD01071,2025-10-08,2025-10-07,San Felipe,3,Minor,Female,Suspected,No,Ongoing,175.3,22432
+NGD01072,2025-10-20,2025-10-14,San Felipe,10,Minor,Male,Confirmed,No,Recovered,121.8,22432
+NGD01073,2025-10-16,2025-10-14,San Felipe,30,Young_Adult,Male,Confirmed,No,Recovered,149.7,22432
+NGD01074,2025-10-06,2025-10-05,San Felipe,11,Minor,Female,Confirmed,No,Recovered,197.6,22432
+NGD01075,2025-10-06,2025-10-05,San Felipe,25,Young_Adult,Male,Confirmed,No,Recovered,251.7,22432
+NGD01076,2025-10-02,2025-09-27,San Felipe,19,Young_Adult,Male,Confirmed,No,Recovered,192.1,22432
+NGD01077,2025-10-25,2025-10-22,San Felipe,22,Young_Adult,Female,Confirmed,Yes,Recovered,162.1,22432
+NGD01078,2025-10-11,2025-10-06,San Felipe,14,Minor,Male,Suspected,No,Recovered,131,22432
+NGD01079,2025-10-19,2025-10-13,San Felipe,7,Minor,Female,Confirmed,No,Recovered,92,22432
+NGD01080,2025-10-16,2025-10-09,San Felipe,30,Young_Adult,Male,Probable,Yes,Recovered,132.3,22432
+NGD01081,2025-10-17,2025-10-13,San Felipe,23,Young_Adult,Female,Suspected,No,Recovered,71.7,22432
+NGD01082,2025-10-31,2025-10-29,San Felipe,36,Adult,Male,Confirmed,Yes,Recovered,Unclassified,22432
+NGD01083,2025-10-30,2025-10-29,San Felipe,12,Minor,Male,Confirmed,No,Recovered,185.4,22432
+NGD01084,2025-10-15,2025-10-09,San Felipe,15,Minor,Female,Suspected,Yes,Recovered,174.8,22432
+NGD01085,2025-10-08,2025-10-05,San Felipe,17,Minor,Female,Suspected,Yes,Recovered,173.2,22432
+NGD01086,2025-10-03,2025-09-26,San Felipe,32,Young_Adult,Female,Confirmed,No,Recovered,172.6,22432
+NGD01087,2025-10-02,2025-09-28,San Francisco,21,Young_Adult,Female,Confirmed,No,Recovered,190,663
+NGD01088,2025-10-16,2025-10-14,San Isidro,45,Adult,Male,Confirmed,Yes,Recovered,206.4,3789
+NGD01089,2025-10-04,2025-10-02,San Isidro,8,Minor,Female,Confirmed,Yes,Recovered,119.1,3789
+NGD01090,2025-10-01,2025-09-29,Santa Cruz,46,Adult,Female,Suspected,No,Recovered,200.9,6397
+NGD01091,2025-10-12,2025-10-06,Triangulo,56,Adult,Female,Suspected,No,Recovered,225.6,7933
+NGD01092,2025-10-17,2025-10-15,Triangulo,16,Minor,Female,Suspected,No,Recovered,209.4,7933
+NGD01093,2025-11-23,2025-11-19,Abella,48,Adult,Male,Confirmed,No,Recovered,14.1,5401
+NGD01094,2025-11-24,2025-11-22,Bagumbayan Norte,24,Young_Adult,Female,Probable,No,Recovered,43.2,2024
+NGD01095,2025-11-23,2025-11-20,Bagumbayan Sur,16,Minor,Male,Confirmed,Yes,Recovered,31.6,7366
+NGD01096,2025-11-13,2025-11-06,Balatas,10,Minor,Female,Confirmed,No,Recovered,72.5,11265
+NGD01097,2025-11-11,2025-11-09,Calauag,7,Minor,Male,Confirmed,Yes,Recovered,83.7,10738
+NGD01098,2025-11-23,2025-11-18,Calauag,19,Young_Adult,Female,Confirmed,No,Recovered,107.8,10738
+NGD01099,2025-11-15,2025-11-10,Calauag,13,Minor,Male,Confirmed,No,Ongoing,140.6,10738
+NGD01100,2025-11-14,2025-11-10,Calauag,33,Young_Adult,Female,Suspected,No,Recovered,158,10738
+NGD01101,2025-11-12,2025-11-09,Calauag,6,Minor,Female,Probable,No,Recovered,64.2,10738
+NGD01102,2025-11-15,2025-11-13,Calauag,20,Young_Adult,Female,Confirmed,No,Recovered,118.3,10738
+NGD01103,2025-11-04,2025-11-01,Calauag,21,Young_Adult,Female,Confirmed,Yes,Recovered,104.5,10738
+NGD01104,2025-11-28,2025-11-21,Cararayan,53,Adult,Female,Confirmed,No,Recovered,96.9,22596
+NGD01105,2025-11-25,2025-11-20,Cararayan,12,Minor,Male,Confirmed,No,Recovered,0,22596
+NGD01106,2025-11-16,2025-11-11,Cararayan,45,Adult,Female,Suspected,Yes,Recovered,44.5,22596
+NGD01107,2025-11-16,2025-11-12,Cararayan,50,Adult,Female,Confirmed,No,Recovered,114.1,22596
+NGD01108,2025-11-16,2025-11-15,Cararayan,18,Young_Adult,Female,Confirmed,No,Recovered,135.2,22596
+NGD01109,2025-11-20,2025-11-18,Cararayan,58,Adult,Female,Confirmed,Unclassified,Recovered,23.2,22596
+NGD01110,2025-11-15,2025-11-11,Cararayan,13,Minor,Male,Confirmed,No,Recovered,146,22596
+NGD01111,2025-11-11,2025-11-10,Cararayan,32,Young_Adult,Female,Probable,No,Recovered,34.5,22596
+NGD01112,2025-11-15,2025-11-09,Cararayan,14,Minor,Male,Confirmed,Yes,Recovered,23.8,22596
+NGD01113,2025-11-22,2025-11-17,Cararayan,6,Minor,Female,Confirmed,Yes,Recovered,69.9,22596
+NGD01114,2025-11-16,2025-11-14,Carolina,17,Minor,Male,Confirmed,No,Recovered,0,7539
+NGD01115,2025-11-16,2025-11-13,Carolina,35,Young_Adult,Female,Confirmed,No,Ongoing,9.7,7539
+NGD01116,2025-11-20,2025-11-14,Carolina,9,Minor,Male,Confirmed,Yes,Recovered,84.5,7539
+NGD01117,2025-11-27,2025-11-21,Carolina,54,Adult,Male,Suspected,No,Recovered,111.2,7539
+NGD01118,2025-11-21,2025-11-15,Carolina,23,Young_Adult,Male,Confirmed,Yes,Recovered,96.4,7539
+NGD01119,2025-11-12,2025-11-11,Carolina,15,Minor,Female,Confirmed,No,Recovered,85.8,7539
+NGD01120,2025-11-30,2025-11-28,Concepcion Grande,28,Young_Adult,Male,Confirmed,Yes,Recovered,142.7,10804
+NGD01121,2025-11-02,2025-10-25, Concepcion Pequeña ,38,Adult,Male,Confirmed,No,Recovered,54.7,26192
+NGD01122,2025-11-23,2025-11-15,Concepcion Pequeña,31,Young_Adult,Female,Probable,Yes,Recovered,98.6,26192
+NGD01123,2025-11-19,2025-11-17, Concepcion Pequeña ,8,Minor,Male,Confirmed,No,Recovered,61.2,26192
+NGD01124,2025-11-17,2025-11-11,Concepcion Pequeña,74,Senior,Female,Confirmed,Yes,Recovered,106.4,26192
+NGD01125,2025-11-16,2025-11-14,Concepcion Pequeña,33,Young_Adult,Female,Confirmed,Yes,Ongoing,0,26192
+NGD01126,2025-11-13,2025-11-09,Concepcion Pequeña,13,Minor,Female,Suspected,No,Recovered,179,26192
+NGD01127,2025-11-09,2025-11-07,Concepcion Pequeña,28,Young_Adult,Male,Confirmed,Yes,Recovered,84.3,26192
+NGD01128,2025-11-27,2025-11-22,Concepcion Pequeña,14,Minor,Male,Confirmed,No,Recovered,95,26192
+NGD01129,2025-11-13,2025-11-08,Concepcion Pequeña,84,Senior,Male,Confirmed,No,Recovered,143.9,26192
+NGD01130,2025-11-21,2025-11-18,Concepcion Pequeña,17,Minor,Male,Confirmed,No,Recovered,14.4,26192
+NGD01131,2025-11-15,2025-11-10,Concepcion Pequeña,23,Young_Adult,Male,Probable,No,Recovered,81.8,26192
+NGD01132,2025-11-07,2025-11-01,Concepcion Pequeña,32,Young_Adult,Male,Confirmed,Yes,Recovered,17.3,26192
+NGD01133,2025-11-10,2025-11-03,Concepcion Pequeña,19,Young_Adult,Male,Confirmed,No,Recovered,212.6,26192
+NGD01134,2025-11-07,2025-10-31,Concepcion Pequeña,26,Young_Adult,Male,Suspected,No,Recovered,0,26192
+NGD01135,2025-11-20,2025-11-16,Concepcion Pequeña,15,Minor,Male,Confirmed,Yes,Recovered,102.9,26192
+NGD01136,2025-11-26,2025-11-21,Dayangdang,5,Minor,Male,Confirmed,No,Recovered,49.1,3538
+NGD01137,2025-11-29,2025-11-28,Del Rosario,18,Young_Adult,Female,Confirmed,Yes,Recovered,165.4,10253
+NGD01138,2025-11-26,2025-11-21,Del Rosario,28,Young_Adult,Female,Confirmed,Unclassified,Recovered,206.5,10253
+NGD01139,2025-11-26,2025-11-25,Del Rosario,28,Young_Adult,Female,Suspected,Yes,Recovered,0,10253
+NGD01140,2025-11-28,2025-11-26,Del Rosario,14,Minor,Male,Suspected,No,Recovered,35.7,10253
+NGD01141,2025-11-13,2025-11-10,Del Rosario,14,Minor,Female,Confirmed,No,Recovered,20.8,10253
+NGD01142,2025-11-17,2025-11-12,Del Rosario,25,Young_Adult,Male,Suspected,Yes,Recovered,139.8,10253
+NGD01143,2025-11-26,2025-11-20,Liboton,19,Young_Adult,Male,Suspected,No,Recovered,7.1,2906
+NGD01144,2025-11-24,2025-11-20,Mabolo,9,Minor,Male,Confirmed,Yes,Recovered,90.4,8408
+NGD01145,2025-11-09,2025-11-01,Mabolo,41,Adult,Male,Confirmed,No,Recovered,122.4,8408
+NGD01146,2025-11-12,2025-11-10,Pacol,7,Minor,Male,Confirmed,No,Recovered,126,15881
+NGD01147,2025-11-09,2025-11-06,Pacol,74,Senior,Male,Confirmed,Yes,Recovered,126.3,15881
+NGD01148,2025-11-21,2025-11-20,Pacol,16,Minor,Female,Suspected,No,Recovered,23.3,15881
+NGD01149,2025-11-18,2025-11-11,Pacol,23,Young_Adult,Male,Confirmed,No,Recovered,69.3,15881
+NGD01150,2025-11-22,2025-11-20,Pacol,29,Young_Adult,Female,Suspected,No,Recovered,87.9,15881
+NGD01151,2025-11-13,2025-11-08,Pacol,15,Minor,Male,Confirmed,No,Recovered,18.9,15881
+NGD01152,2025-11-07,2025-11-04,Pacol,25,Young_Adult,Male,Confirmed,No,Recovered,47.4,15881
+NGD01153,2025-11-14,2025-11-13,Panicuason,51,Adult,Male,Suspected,No,Recovered,Unclassified,3224
+NGD01154,2025-11-16,2025-11-09,Panicuason,14,Minor,Male,Suspected,No,Recovered,117,3224
+NGD01155,2025-11-27,2025-11-24,Panicuason,44,Adult,Male,Confirmed,Yes,Recovered,106.5,3224
+NGD01156,2025-11-27,2025-11-21,Peñafrancia,13,Minor,Male,Suspected,No,Recovered,69.9,4219
+NGD01157,2025-11-06,2025-10-29,Sabang,19,Young_Adult,Female,Confirmed,Yes,Recovered,53.6,6274
+NGD01158,2025-11-19,2025-11-17,San Felipe,18,Young_Adult,Female,Confirmed,No,Ongoing,55,22432
+NGD01159,2025-11-27,2025-11-24,San Felipe,23,Young_Adult,Male,Suspected,Yes,Recovered,147.1,22432
+NGD01160,2025-11-24,2025-11-21,San Felipe,19,Young_Adult,Male,Confirmed,No,Recovered,79.4,22432
+NGD01161,2025-11-10,2025-11-06,San Felipe,12,Minor,Female,Confirmed,Yes,Recovered,137.7,22432
+NGD01162,2025-11-27,2025-11-23,San Felipe,17,Minor,Female,Probable,No,Recovered,84.2,22432
+NGD01163,2025-11-21,2025-11-17,San Felipe,29,Young_Adult,Female,Probable,Yes,Recovered,68.8,22432
+NGD01164,2025-11-06,2025-11-05,San Felipe,26,Young_Adult,Male,Confirmed,No,Recovered,131,22432
+NGD01165,2025-11-12,2025-11-09,San Felipe,36,Adult,Female,Confirmed,No,Recovered,107.8,22432
+NGD01166,2025-11-30,2025-11-22,San Felipe,14,Minor,Male,Confirmed,No,Recovered,66.1,22432
+NGD01167,2025-11-28,2025-11-23,San Felipe,14,Minor,Male,Suspected,No,Recovered,149.3,22432
+NGD01168,2025-11-07,2025-11-03,San Francisco,38,Adult,Male,Suspected,Yes,Recovered,133,663
+NGD01169,2025-11-26,2025-11-23,Santa Cruz,19,Young_Adult,Female,Confirmed,Yes,Recovered,160.7,6397
+NGD01170,2025-11-30,2025-11-26,Santa Cruz,6,Minor,Male,Confirmed,No,Recovered,28.8,6397
+NGD01171,2025-11-16,2025-11-13,Triangulo,35,Young_Adult,Male,Probable,No,Recovered,41.6,7933
+NGD01172,2025-12-13,2025-12-06,Abella,20,Young_Adult,Male,Confirmed,No,Recovered,26.6,5401
+NGD01173,2025-12-30,2025-12-26,Abella,61,Senior,Male,Probable,No,Recovered,82.5,5401
+NGD01174,2025-12-31,2025-12-30,Bagumbayan Sur,1,Minor,Female,Confirmed,No,Recovered,71.9,7366
+NGD01175,2025-12-13,2025-12-07,Bagumbayan Sur,28,Young_Adult,Female,Probable,No,Recovered,89.1,7366
+NGD01176,2025-12-09,2025-12-06,Balatas,30,Young_Adult,Male,Probable,No,Recovered,32.9,11265
+NGD01177,2025-12-11,2025-12-04,Balatas,22,Young_Adult,Female,Confirmed,Yes,Ongoing,129.5,11265
+NGD01178,2025-12-16,2025-12-11,Balatas,19,Young_Adult,Male,Probable,Yes,Recovered,87.3,11265
+NGD01179,2025-12-20,2025-12-15,Balatas,47,Adult,Male,Confirmed,Yes,Recovered,75.7,11265
+NGD01180,2025-12-16,2025-12-13,Balatas,30,Young_Adult,Male,Confirmed,Yes,Recovered,138,11265
+NGD01181,2025-12-02,2025-11-24,Balatas,21,Young_Adult,Male,Confirmed,No,Recovered,58.6,11265
+NGD01182,2025-12-29,2025-12-21,Balatas,19,Young_Adult,Female,Confirmed,No,Recovered,66.6,11265
+NGD01183,2025-12-15,2025-12-07,Balatas,53,Adult,Female,Suspected,No,Recovered,48.4,11265
+NGD01184,2025-12-03,2025-11-29,Calauag,11,Minor,Male,Confirmed,Yes,Recovered,90.3,10738
+NGD01185,2025-12-09,2025-12-05,Calauag,15,Minor,Female,Confirmed,No,Recovered,69.6,10738
+NGD01186,2025-12-03,2025-11-29,Calauag,9,Minor,Male,Confirmed,No,Recovered,52.1,10738
+NGD01187,2025-12-22,2025-12-20,Calauag,21,Young_Adult,Male,Confirmed,No,Recovered,66.2,10738
+NGD01188,2025-12-11,2025-12-08,Calauag,39,Adult,Female,Confirmed,No,Recovered,0,10738
+NGD01189,2025-12-15,2025-12-10,Calauag,15,Minor,Female,Confirmed,Yes,Recovered,58.2,10738
+NGD01190,2025-12-15,2025-12-09,Cararayan,35,Young_Adult,Female,Confirmed,Yes,Recovered,81.1,22596
+NGD01191,2025-12-11,2025-12-10,Cararayan,14,Minor,Female,Confirmed,No,Recovered,63.7,22596
+NGD01192,2025-12-09,2025-12-06,Cararayan,9,Minor,Female,Probable,No,Recovered,27.9,22596
+NGD01193,2025-12-28,2025-12-24,Cararayan,9,Minor,Female,Confirmed,No,Recovered,66.2,22596
+NGD01194,2025-12-31,2025-12-28,Cararayan,29,Young_Adult,Female,Confirmed,No,Recovered,77.5,22596
+NGD01195,2025-12-30,2025-12-25,Cararayan,32,Young_Adult,Female,Confirmed,Yes,Recovered,56.3,22596
+NGD01196,2025-12-07,2025-11-29,Cararayan,5,Minor,Male,Suspected,No,Recovered,92.8,22596
+NGD01197,2025-12-14,2025-12-12,Cararayan,4,Minor,Male,Suspected,No,Recovered,10.3,22596
+NGD01198,2025-12-14,2025-12-12,Cararayan,17,Minor,Female,Confirmed,No,Recovered,74.7,22596
+NGD01199,2025-12-21,2025-12-18,Cararayan,45,Adult,Male,Confirmed,No,Recovered,88.4,22596
+NGD01200,2025-12-15,2025-12-08,Cararayan,6,Minor,Female,Probable,No,Recovered,90.2,22596
+NGD01201,2025-12-05,2025-11-30,Carolina,22,Young_Adult,Female,Confirmed,Yes,Recovered,28.2,7539
+NGD01202,2025-12-03,2025-12-02,Carolina,4,Minor,Female,Confirmed,No,Recovered,154.9,7539
+NGD01203,2025-12-24,2025-12-19,Carolina,21,Young_Adult,Male,Confirmed,Yes,Recovered,134,7539
+NGD01204,2025-12-04,2025-11-26,Concepcion Grande,15,Minor,Female,Suspected,No,Recovered,84,10804
+NGD01205,2025-12-14,2025-12-09,Concepcion Pequeña,74,Senior,Male,Confirmed,No,Recovered,133.1,26192
+NGD01206,2025-12-20,2025-12-15,Concepcion Pequeña,25,Young_Adult,Male,Probable,No,Recovered,29,26192
+NGD01207,2025-12-06,2025-12-04,Concepcion Pequeña,51,Adult,Male,Suspected,Yes,Recovered,0,26192
+NGD01208,2025-12-01,2025-11-24,Concepcion Pequeña,11,Minor,Female,Confirmed,No,Recovered,116.8,26192
+NGD01209,2025-12-13,2025-12-05,Concepcion Pequeña,18,Young_Adult,Male,Confirmed,No,Recovered,0,26192
+NGD01210,2025-12-22,2025-12-15,Concepcion Pequeña,14,Minor,Male,Confirmed,Yes,Recovered,13.3,26192
+NGD01211,2025-12-27,2025-12-26,Concepcion Pequeña,39,Adult,Female,Unclassified,Unclassified,Recovered,0,26192
+NGD01212,2025-12-21,2025-12-17,Concepcion Pequeña,8,Minor,Male,Suspected,No,Recovered,0,26192
+NGD01213,2025-12-03,2025-11-28,Concepcion Pequeña,21,Young_Adult,Male,Confirmed,No,Recovered,2.3,26192
+NGD01214,2025-12-29,2025-12-26,Concepcion Pequeña,3,Minor,Male,Probable,No,Recovered,138.8,26192
+NGD01215,2025-12-19,2025-12-15,Concepcion Pequeña,40,Adult,Female,Confirmed,No,Recovered,89.4,26192
+NGD01216,2025-12-11,2025-12-10,Concepcion Pequeña,14,Minor,Female,Confirmed,No,Ongoing,158,26192
+NGD01217,2025-12-28,2025-12-20,Del Rosario,33,Young_Adult,Male,Confirmed,No,Recovered,0,10253
+NGD01218,2025-12-24,2025-12-16,Igualdad Interior,19,Young_Adult,Female,Suspected,No,Recovered,141.4,2814
+NGD01219,2025-12-11,2025-12-09,Mabolo,6,Minor,Male,Suspected,No,Recovered,21.4,8408
+NGD01220,2025-12-16,2025-12-10,Mabolo,34,Young_Adult,Male,Suspected,Yes,Recovered,91.2,8408
+NGD01221,2025-12-07,2025-11-29,Pacol,21,Young_Adult,Male,Confirmed,No,Recovered,102.2,15881
+NGD01222,2025-12-22,2025-12-16,Pacol,28,Young_Adult,Male,Confirmed,Yes,Recovered,151.7,15881
+NGD01223,2025-12-31,2025-12-24,Pacol,10,Minor,Male,Suspected,No,Recovered,83.5,15881
+NGD01224,2025-12-20,2025-12-16,Pacol,17,Minor,Male,Suspected,Yes,Recovered,0,15881
+NGD01225,2025-12-06,2025-12-02,Pacol,11,Minor,Female,Confirmed,Yes,Recovered,33.1,15881
+NGD01226,2025-12-16,2025-12-11,Panicuason,42,Adult,Female,Confirmed,Yes,Recovered,Unclassified,3224
+NGD01227,2025-12-29,2025-12-24,Peñafrancia,43,Adult,Male,Confirmed,Yes,Recovered,116.5,4219
+NGD01228,2025-12-17,2025-12-16,San Felipe,25,Young_Adult,Female,Confirmed,Yes,Recovered,0,22432
+NGD01229,2025-12-18,2025-12-14,San Felipe,18,Young_Adult,Male,Confirmed,Yes,Recovered,84.4,22432
+NGD01230,2025-12-02,2025-11-27,San Felipe,40,Adult,Female,Suspected,No,Recovered,39,22432
+NGD01231,2025-12-04,2025-12-03,San Felipe,23,Young_Adult,Male,Suspected,No,Recovered,0,22432
+NGD01232,2025-12-04,2025-12-02,San Felipe,21,Young_Adult,Female,Confirmed,Yes,Recovered,0,22432
+NGD01233,2025-12-07,2025-12-01,San Felipe,23,Young_Adult,Female,Suspected,No,Recovered,14.5,22432
+NGD01234,2025-12-16,2025-12-14,San Felipe,21,Young_Adult,Female,Confirmed,Yes,Recovered,97.2,22432
+NGD01235,2025-12-28,2025-12-24,San Felipe,35,Young_Adult,Male,Probable,No,Recovered,110.7,22432
+NGD01236,2025-12-27,2025-12-19,San Felipe,32,Young_Adult,Male,Confirmed,Yes,Recovered,91.9,22432
+NGD01237,2025-12-23,2025-12-16,San Felipe,12,Minor,Male,Confirmed,Yes,Recovered,177.2,22432
+NGD01238,2025-12-17,2025-12-10,San Felipe,40,Adult,Female,Confirmed,No,Recovered,46.1,22432
+NGD01239,2025-12-29,2025-12-21,San Felipe,23,Young_Adult,Male,Probable,No,Recovered,68.1,22432
+NGD01240,2025-12-23,2025-12-21,San Felipe,12,Minor,Female,Confirmed,No,Recovered,14.9,22432
+NGD01241,2025-12-14,2025-12-13,San Felipe,24,Young_Adult,Male,Suspected,No,Recovered,47.5,22432
+NGD01242,2025-12-29,2025-12-28,Santa Cruz,29,Young_Adult,Male,Confirmed,No,Recovered,123.9,6397
+NGD01243,2025-12-28,2025-12-23,Santa Cruz,28,Young_Adult,Male,Probable,Yes,Recovered,38.3,6397
+NGD01244,2025-12-17,2025-12-14,Triangulo,25,Young_Adult,Male,Confirmed,Yes,Recovered,106.7,7933
