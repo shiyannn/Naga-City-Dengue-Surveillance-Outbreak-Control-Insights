@@ -1,3 +1,6 @@
+<img width="1062" height="596" alt="Naga Dengue Dashboard" src="https://github.com/user-attachments/assets/279e1938-c722-4aa9-ada9-e4c646c4da21" />
+
+
 **Naga City Dengue Surveillance & Outbreak Control Insights**
 
  📌**Executive Summary**
